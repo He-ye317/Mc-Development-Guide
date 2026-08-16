@@ -1,0 +1,4339 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="markmap mm-jm62n5-2" style="width: 100%; height: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><style>.markmap{--markmap-max-width: 9999px;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;--markmap-highlight-node-bg: #ff02;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign&gt;div{width:var(--markmap-max-width);text-align:left}.markmap-foreign&gt;div&gt;div{display:inline-block}.markmap-highlight rect{fill:var(--markmap-highlight-node-bg)}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style><g transform="translate(386.999983724753,196.39800302719593) scale(0.024738375404846767)"><path class="markmap-link" data-depth="4" data-path="1.2.3.4" d="M573,-7256.594C613,-7256.594,613,-7311.062,653,-7311.062" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.2.3.5" d="M573,-7256.594C613,-7256.594,613,-7283.875,653,-7283.875" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.2.3.6" d="M573,-7256.594C613,-7256.594,613,-7256.687,653,-7256.687" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.2.3.7" d="M573,-7256.594C613,-7256.594,613,-7229.5,653,-7229.5" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.2.3.8" d="M573,-7256.594C613,-7256.594,613,-7202.312,653,-7202.312" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M419,-7256.406C459,-7256.406,459,-7256.594,499,-7256.594" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.9.10.11" d="M476,-6752.531C516,-6752.531,516,-6335.125,556,-6335.125" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.9.12.13" d="M476,-5927.844C516,-5927.844,516,-5552.937,556,-5552.937" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="4" data-path="1.9.14.15" d="M388,-5497.656C428,-5497.656,428,-5474.75,468,-5474.75" stroke-width="1.1875" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="4" data-path="1.9.16.17" d="M367,-5248.969C407,-5248.969,407,-5055.562,447,-5055.562" stroke-width="1.1875" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="4" data-path="1.9.18.19" d="M428,-4904.281C468,-4904.281,468,-4785.375,508,-4785.375" stroke-width="1.1875" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="4" data-path="1.9.20.21" d="M460,-4666.094C500,-4666.094,500,-4579.187,540,-4579.187" stroke-width="1.1875" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="4" data-path="1.9.22.23" d="M460,-4438.406C500,-4438.406,500,-4330,540,-4330" stroke-width="1.1875" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.9.10" d="M198,-5595.281C238,-5595.281,238,-6752.531,278,-6752.531" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.9.12" d="M198,-5595.281C238,-5595.281,238,-5927.844,278,-5927.844" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="3" data-path="1.9.14" d="M198,-5595.281C238,-5595.281,238,-5497.656,278,-5497.656" stroke-width="1.375" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="3" data-path="1.9.16" d="M198,-5595.281C238,-5595.281,238,-5248.969,278,-5248.969" stroke-width="1.375" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.9.18" d="M198,-5595.281C238,-5595.281,238,-4904.281,278,-4904.281" stroke-width="1.375" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="3" data-path="1.9.20" d="M198,-5595.281C238,-5595.281,238,-4666.094,278,-4666.094" stroke-width="1.375" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="3" data-path="1.9.22" d="M198,-5595.281C238,-5595.281,238,-4438.406,278,-4438.406" stroke-width="1.375" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.24.25.26" d="M460,-946.719C500,-946.719,500,2404.188,540,2404.188" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.24.27.28" d="M460,3248.969C500,3248.969,500,4061.375,540,4061.375" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.24.29.30" d="M447,4970.156C487,4970.156,487,5846.563,527,5846.563" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.24.31.32" d="M399,6595.344C439,6595.344,439,7311.75,479,7311.75" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.24.33.34" d="M428,8519.031C468,8519.031,468,9693.938,508,9693.938" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.24.35.36" d="M415,10271.719C455,10271.719,455,10817.125,495,10817.125" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="4" data-path="1.24.37.38" d="M399,11106.906C439,11106.906,439,11364.313,479,11364.313" stroke-width="1.1875" stroke="rgb(127, 127, 127)"/><path class="markmap-link" data-depth="4" data-path="1.24.39.40" d="M399,11761.094C439,11761.094,439,12125.5,479,12125.5" stroke-width="1.1875" stroke="rgb(23, 190, 207)"/><path class="markmap-link" data-depth="4" data-path="1.24.41.42" d="M383,12991.281C423,12991.281,423,13824.688,463,13824.688" stroke-width="1.1875" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="4" data-path="1.24.43.44" d="M407,14562.469C447,14562.469,447,15267.875,487,15267.875" stroke-width="1.1875" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="4" data-path="1.24.45.46" d="M437,15504.656C477,15504.656,477,15709.063,517,15709.063" stroke-width="1.1875" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="3" data-path="1.24.25" d="M198,7279.156C238,7279.156,238,-946.719,278,-946.719" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.24.27" d="M198,7279.156C238,7279.156,238,3248.969,278,3248.969" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.24.29" d="M198,7279.156C238,7279.156,238,4970.156,278,4970.156" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.24.31" d="M198,7279.156C238,7279.156,238,6595.344,278,6595.344" stroke-width="1.375" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.24.33" d="M198,7279.156C238,7279.156,238,8519.031,278,8519.031" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.24.35" d="M198,7279.156C238,7279.156,238,10271.719,278,10271.719" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.24.37" d="M198,7279.156C238,7279.156,238,11106.906,278,11106.906" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.24.39" d="M198,7279.156C238,7279.156,238,11761.094,278,11761.094" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="3" data-path="1.24.41" d="M198,7279.156C238,7279.156,238,12991.281,278,12991.281" stroke-width="1.375" stroke="rgb(31, 119, 180)"/><path class="markmap-link" data-depth="3" data-path="1.24.43" d="M198,7279.156C238,7279.156,238,14562.469,278,14562.469" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.24.45" d="M198,7279.156C238,7279.156,238,15504.656,278,15504.656" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M0,1.25C40,1.25,40,-7256.406,80,-7256.406" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.9" d="M0,1.25C40,1.25,40,-5595.281,80,-5595.281" stroke-width="1.75" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.24" d="M0,1.25C40,1.25,40,7279.156,80,7279.156" stroke-width="1.75" stroke="rgb(214, 39, 40)"/><g class="markmap-highlight"/><g data-depth="4" data-path="1.2.3.4" class="markmap-node" transform="translate(653, -7332.65625)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="120" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E4%B8%80%E5%AE%9E%E4%BD%93-id-%E8%A1%A8">一、实体 ID 表</a></div></div></foreignObject></g><g data-depth="4" data-path="1.2.3.5" class="markmap-node" transform="translate(653, -7305.46875)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="120" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E4%BA%8C%E7%89%A9%E5%93%81-id-%E8%A1%A8">二、物品 ID 表</a></div></div></foreignObject></g><g data-depth="4" data-path="1.2.3.6" class="markmap-node" transform="translate(653, -7278.28125)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="120" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E4%B8%89%E7%B2%92%E5%AD%90-id-%E8%A1%A8">三、粒子 ID 表</a></div></div></foreignObject></g><g data-depth="4" data-path="1.2.3.7" class="markmap-node" transform="translate(653, -7251.09375)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="152" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="134" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E5%9B%9B%E6%B8%B8%E6%88%8F%E4%BA%8B%E4%BB%B6-id-%E8%A1%A8">四、游戏事件 ID 表</a></div></div></foreignObject></g><g data-depth="4" data-path="1.2.3.8" class="markmap-node" transform="translate(653, -7223.90625)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="152" y1="21.59375" y2="21.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="134" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="#%E4%BA%94%E5%A3%B0%E9%9F%B3%E4%BA%8B%E4%BB%B6-id-%E8%A1%A8">五、声音事件 ID 表</a></div></div></foreignObject></g><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(499, -7278.28125)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="76" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="74" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="58" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">📑 目录</div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(80, -7278.28125)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="341" y1="21.875" y2="21.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="339" cy="21.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="323" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">🟩 Minecraft Java Edition 1.21 完整 ID 汇总表</div></div></foreignObject></g><g data-depth="4" data-path="1.9.10.11" class="markmap-node" transform="translate(556, -7191.71875)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="300" y1="856.59375" y2="856.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="282" height="856"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="24,65">
+<thead data-lines="24,25">
+<tr data-lines="24,25">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="26,65">
+<tr data-lines="26,27">
+<td><code>minecraft:allay</code></td>
+<td>悦灵</td>
+</tr>
+<tr data-lines="27,28">
+<td><code>minecraft:armadillo</code></td>
+<td>犰狳</td>
+</tr>
+<tr data-lines="28,29">
+<td><code>minecraft:axolotl</code></td>
+<td>美西螈</td>
+</tr>
+<tr data-lines="29,30">
+<td><code>minecraft:bat</code></td>
+<td>蝙蝠</td>
+</tr>
+<tr data-lines="30,31">
+<td><code>minecraft:camel</code></td>
+<td>骆驼</td>
+</tr>
+<tr data-lines="31,32">
+<td><code>minecraft:cat</code></td>
+<td>猫</td>
+</tr>
+<tr data-lines="32,33">
+<td><code>minecraft:chicken</code></td>
+<td>鸡</td>
+</tr>
+<tr data-lines="33,34">
+<td><code>minecraft:cod</code></td>
+<td>鳕鱼</td>
+</tr>
+<tr data-lines="34,35">
+<td><code>minecraft:cow</code></td>
+<td>牛</td>
+</tr>
+<tr data-lines="35,36">
+<td><code>minecraft:donkey</code></td>
+<td>驴</td>
+</tr>
+<tr data-lines="36,37">
+<td><code>minecraft:fox</code></td>
+<td>狐狸</td>
+</tr>
+<tr data-lines="37,38">
+<td><code>minecraft:frog</code></td>
+<td>青蛙</td>
+</tr>
+<tr data-lines="38,39">
+<td><code>minecraft:glow_squid</code></td>
+<td>发光鱿鱼</td>
+</tr>
+<tr data-lines="39,40">
+<td><code>minecraft:horse</code></td>
+<td>马</td>
+</tr>
+<tr data-lines="40,41">
+<td><code>minecraft:mooshroom</code></td>
+<td>哞菇</td>
+</tr>
+<tr data-lines="41,42">
+<td><code>minecraft:mule</code></td>
+<td>骡</td>
+</tr>
+<tr data-lines="42,43">
+<td><code>minecraft:ocelot</code></td>
+<td>豹猫</td>
+</tr>
+<tr data-lines="43,44">
+<td><code>minecraft:parrot</code></td>
+<td>鹦鹉</td>
+</tr>
+<tr data-lines="44,45">
+<td><code>minecraft:pig</code></td>
+<td>猪</td>
+</tr>
+<tr data-lines="45,46">
+<td><code>minecraft:rabbit</code></td>
+<td>兔子</td>
+</tr>
+<tr data-lines="46,47">
+<td><code>minecraft:salmon</code></td>
+<td>鲑鱼</td>
+</tr>
+<tr data-lines="47,48">
+<td><code>minecraft:sheep</code></td>
+<td>羊</td>
+</tr>
+<tr data-lines="48,49">
+<td><code>minecraft:skeleton_horse</code></td>
+<td>骷髅马</td>
+</tr>
+<tr data-lines="49,50">
+<td><code>minecraft:sniffer</code></td>
+<td>嗅探兽</td>
+</tr>
+<tr data-lines="50,51">
+<td><code>minecraft:snow_golem</code></td>
+<td>雪傀儡</td>
+</tr>
+<tr data-lines="51,52">
+<td><code>minecraft:squid</code></td>
+<td>鱿鱼</td>
+</tr>
+<tr data-lines="52,53">
+<td><code>minecraft:strider</code></td>
+<td>炽足兽</td>
+</tr>
+<tr data-lines="53,54">
+<td><code>minecraft:tadpole</code></td>
+<td>蝌蚪</td>
+</tr>
+<tr data-lines="54,55">
+<td><code>minecraft:tropical_fish</code></td>
+<td>热带鱼</td>
+</tr>
+<tr data-lines="55,56">
+<td><code>minecraft:turtle</code></td>
+<td>海龟</td>
+</tr>
+<tr data-lines="56,57">
+<td><code>minecraft:villager</code></td>
+<td>村民</td>
+</tr>
+<tr data-lines="57,58">
+<td><code>minecraft:wandering_trader</code></td>
+<td>流浪商人</td>
+</tr>
+<tr data-lines="58,59">
+<td><code>minecraft:bee</code></td>
+<td>蜜蜂</td>
+</tr>
+<tr data-lines="59,60">
+<td><code>minecraft:dolphin</code></td>
+<td>海豚</td>
+</tr>
+<tr data-lines="60,61">
+<td><code>minecraft:llama</code></td>
+<td>羊驼</td>
+</tr>
+<tr data-lines="61,62">
+<td><code>minecraft:panda</code></td>
+<td>熊猫</td>
+</tr>
+<tr data-lines="62,63">
+<td><code>minecraft:polar_bear</code></td>
+<td>北极熊</td>
+</tr>
+<tr data-lines="63,64">
+<td><code>minecraft:trader_llama</code></td>
+<td>流浪商人羊驼</td>
+</tr>
+<tr data-lines="64,65">
+<td><code>minecraft:wolf</code></td>
+<td>狼</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.10" class="markmap-node" transform="translate(278, -6774.21875)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="200" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="198" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="182" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.1 友好生物 / 被动型生物</div></div></foreignObject></g><g data-depth="4" data-path="1.9.12.13" class="markmap-node" transform="translate(556, -6324.53125)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="322" y1="771.59375" y2="771.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="304" height="771"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="68,105">
+<thead data-lines="68,69">
+<tr data-lines="68,69">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="70,105">
+<tr data-lines="70,71">
+<td><code>minecraft:blaze</code></td>
+<td>烈焰人</td>
+</tr>
+<tr data-lines="71,72">
+<td><code>minecraft:bogged</code></td>
+<td>沼骸 ⭐1.21+</td>
+</tr>
+<tr data-lines="72,73">
+<td><code>minecraft:breeze</code></td>
+<td>旋风人 ⭐1.21+</td>
+</tr>
+<tr data-lines="73,74">
+<td><code>minecraft:cave_spider</code></td>
+<td>洞穴蜘蛛</td>
+</tr>
+<tr data-lines="74,75">
+<td><code>minecraft:creaking</code></td>
+<td>嘎枝怪 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="75,76">
+<td><code>minecraft:creeper</code></td>
+<td>爬行者</td>
+</tr>
+<tr data-lines="76,77">
+<td><code>minecraft:drowned</code></td>
+<td>溺尸</td>
+</tr>
+<tr data-lines="77,78">
+<td><code>minecraft:elder_guardian</code></td>
+<td>远古守卫者</td>
+</tr>
+<tr data-lines="78,79">
+<td><code>minecraft:endermite</code></td>
+<td>末影螨</td>
+</tr>
+<tr data-lines="79,80">
+<td><code>minecraft:evoker</code></td>
+<td>唤魔者</td>
+</tr>
+<tr data-lines="80,81">
+<td><code>minecraft:ghast</code></td>
+<td>恶魂</td>
+</tr>
+<tr data-lines="81,82">
+<td><code>minecraft:guardian</code></td>
+<td>守卫者</td>
+</tr>
+<tr data-lines="82,83">
+<td><code>minecraft:hoglin</code></td>
+<td>疣猪兽</td>
+</tr>
+<tr data-lines="83,84">
+<td><code>minecraft:husk</code></td>
+<td>尸壳</td>
+</tr>
+<tr data-lines="84,85">
+<td><code>minecraft:magma_cube</code></td>
+<td>岩浆怪</td>
+</tr>
+<tr data-lines="85,86">
+<td><code>minecraft:phantom</code></td>
+<td>幻翼</td>
+</tr>
+<tr data-lines="86,87">
+<td><code>minecraft:piglin</code></td>
+<td>猪灵</td>
+</tr>
+<tr data-lines="87,88">
+<td><code>minecraft:piglin_brute</code></td>
+<td>猪灵蛮兵</td>
+</tr>
+<tr data-lines="88,89">
+<td><code>minecraft:pillager</code></td>
+<td>掠夺者</td>
+</tr>
+<tr data-lines="89,90">
+<td><code>minecraft:ravager</code></td>
+<td>劫掠兽</td>
+</tr>
+<tr data-lines="90,91">
+<td><code>minecraft:shulker</code></td>
+<td>潜影贝</td>
+</tr>
+<tr data-lines="91,92">
+<td><code>minecraft:silverfish</code></td>
+<td>蠹虫</td>
+</tr>
+<tr data-lines="92,93">
+<td><code>minecraft:skeleton</code></td>
+<td>骷髅</td>
+</tr>
+<tr data-lines="93,94">
+<td><code>minecraft:slime</code></td>
+<td>史莱姆</td>
+</tr>
+<tr data-lines="94,95">
+<td><code>minecraft:spider</code></td>
+<td>蜘蛛</td>
+</tr>
+<tr data-lines="95,96">
+<td><code>minecraft:stray</code></td>
+<td>流浪者</td>
+</tr>
+<tr data-lines="96,97">
+<td><code>minecraft:vex</code></td>
+<td>恼鬼</td>
+</tr>
+<tr data-lines="97,98">
+<td><code>minecraft:vindicator</code></td>
+<td>卫道士</td>
+</tr>
+<tr data-lines="98,99">
+<td><code>minecraft:warden</code></td>
+<td>监守者</td>
+</tr>
+<tr data-lines="99,100">
+<td><code>minecraft:witch</code></td>
+<td>女巫</td>
+</tr>
+<tr data-lines="100,101">
+<td><code>minecraft:wither_skeleton</code></td>
+<td>凋灵骷髅</td>
+</tr>
+<tr data-lines="101,102">
+<td><code>minecraft:zoglin</code></td>
+<td>僵尸疣猪兽</td>
+</tr>
+<tr data-lines="102,103">
+<td><code>minecraft:zombie</code></td>
+<td>僵尸</td>
+</tr>
+<tr data-lines="103,104">
+<td><code>minecraft:zombie_villager</code></td>
+<td>僵尸村民</td>
+</tr>
+<tr data-lines="104,105">
+<td><code>minecraft:zombified_piglin</code></td>
+<td>僵尸猪灵</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.12" class="markmap-node" transform="translate(278, -5949.53125)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="200" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="198" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="182" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.2 敌对生物 / 攻击型生物</div></div></foreignObject></g><g data-depth="4" data-path="1.9.14.15" class="markmap-node" transform="translate(468, -5542.34375)"><line stroke="#9467bd" stroke-width="1.1875" x1="-1" x2="229" y1="67.59375" y2="67.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="211" height="67"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="108,112">
+<thead data-lines="108,109">
+<tr data-lines="108,109">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="110,112">
+<tr data-lines="110,111">
+<td><code>minecraft:ender_dragon</code></td>
+<td>末影龙</td>
+</tr>
+<tr data-lines="111,112">
+<td><code>minecraft:wither</code></td>
+<td>凋灵</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.14" class="markmap-node" transform="translate(278, -5519.34375)"><line stroke="#d62728" stroke-width="1.375" x1="-1" x2="112" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="110" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="94" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.3 Boss 生物</div></div></foreignObject></g><g data-depth="4" data-path="1.9.16.17" class="markmap-node" transform="translate(447, -5464.15625)"><line stroke="#e377c2" stroke-width="1.1875" x1="-1" x2="301" y1="408.59375" y2="408.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="283" height="408"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="115,135">
+<thead data-lines="115,116">
+<tr data-lines="115,116">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="117,135">
+<tr data-lines="117,118">
+<td><code>minecraft:arrow</code></td>
+<td>箭</td>
+</tr>
+<tr data-lines="118,119">
+<td><code>minecraft:dragon_fireball</code></td>
+<td>末影龙火球</td>
+</tr>
+<tr data-lines="119,120">
+<td><code>minecraft:egg</code></td>
+<td>鸡蛋</td>
+</tr>
+<tr data-lines="120,121">
+<td><code>minecraft:ender_pearl</code></td>
+<td>末影珍珠</td>
+</tr>
+<tr data-lines="121,122">
+<td><code>minecraft:experience_bottle</code></td>
+<td>附魔之瓶</td>
+</tr>
+<tr data-lines="122,123">
+<td><code>minecraft:eye_of_ender</code></td>
+<td>末影之眼</td>
+</tr>
+<tr data-lines="123,124">
+<td><code>minecraft:fireball</code></td>
+<td>火球</td>
+</tr>
+<tr data-lines="124,125">
+<td><code>minecraft:firework_rocket</code></td>
+<td>烟花火箭</td>
+</tr>
+<tr data-lines="125,126">
+<td><code>minecraft:llama_spit</code></td>
+<td>羊驼唾沫</td>
+</tr>
+<tr data-lines="126,127">
+<td><code>minecraft:potion</code></td>
+<td>药水</td>
+</tr>
+<tr data-lines="127,128">
+<td><code>minecraft:small_fireball</code></td>
+<td>小火球</td>
+</tr>
+<tr data-lines="128,129">
+<td><code>minecraft:snowball</code></td>
+<td>雪球</td>
+</tr>
+<tr data-lines="129,130">
+<td><code>minecraft:spectral_arrow</code></td>
+<td>光灵箭</td>
+</tr>
+<tr data-lines="130,131">
+<td><code>minecraft:trident</code></td>
+<td>三叉戟</td>
+</tr>
+<tr data-lines="131,132">
+<td><code>minecraft:wind_charge</code></td>
+<td>风弹 ⭐1.21+</td>
+</tr>
+<tr data-lines="132,133">
+<td><code>minecraft:wither_skull</code></td>
+<td>凋灵之首</td>
+</tr>
+<tr data-lines="133,134">
+<td><code>minecraft:shulker_bullet</code></td>
+<td>潜影弹</td>
+</tr>
+<tr data-lines="134,135">
+<td><code>minecraft:fishing_bobber</code></td>
+<td>浮漂</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.16" class="markmap-node" transform="translate(278, -5270.65625)"><line stroke="#8c564b" stroke-width="1.375" x1="-1" x2="91" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="89" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="73" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.4 弹射物</div></div></foreignObject></g><g data-depth="4" data-path="1.9.18.19" class="markmap-node" transform="translate(508, -5044.96875)"><line stroke="#bcbd22" stroke-width="1.1875" x1="-1" x2="359" y1="259.59375" y2="259.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="341" height="259"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="138,151">
+<thead data-lines="138,139">
+<tr data-lines="138,139">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="140,151">
+<tr data-lines="140,141">
+<td><code>minecraft:boat</code></td>
+<td>橡木船</td>
+</tr>
+<tr data-lines="141,142">
+<td><code>minecraft:chest_boat</code></td>
+<td>橡木运输船</td>
+</tr>
+<tr data-lines="142,143">
+<td><code>minecraft:bamboo_raft</code></td>
+<td>竹筏</td>
+</tr>
+<tr data-lines="143,144">
+<td><code>minecraft:chest_raft</code></td>
+<td>运输竹筏</td>
+</tr>
+<tr data-lines="144,145">
+<td><code>minecraft:minecart</code></td>
+<td>矿车</td>
+</tr>
+<tr data-lines="145,146">
+<td><code>minecraft:chest_minecart</code></td>
+<td>运输矿车</td>
+</tr>
+<tr data-lines="146,147">
+<td><code>minecraft:command_block_minecart</code></td>
+<td>命令方块矿车</td>
+</tr>
+<tr data-lines="147,148">
+<td><code>minecraft:furnace_minecart</code></td>
+<td>动力矿车</td>
+</tr>
+<tr data-lines="148,149">
+<td><code>minecraft:hopper_minecart</code></td>
+<td>漏斗矿车</td>
+</tr>
+<tr data-lines="149,150">
+<td><code>minecraft:spawner_minecart</code></td>
+<td>刷怪笼矿车</td>
+</tr>
+<tr data-lines="150,151">
+<td><code>minecraft:tnt_minecart</code></td>
+<td>TNT矿车</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.18" class="markmap-node" transform="translate(278, -4925.96875)"><line stroke="#7f7f7f" stroke-width="1.375" x1="-1" x2="152" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="150" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="134" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.5 交通工具 / 载具</div></div></foreignObject></g><g data-depth="4" data-path="1.9.20.21" class="markmap-node" transform="translate(540, -4774.78125)"><line stroke="#1f77b4" stroke-width="1.1875" x1="-1" x2="314" y1="195.59375" y2="195.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="296" height="195"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="154,164">
+<thead data-lines="154,155">
+<tr data-lines="154,155">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="156,164">
+<tr data-lines="156,157">
+<td><code>minecraft:armor_stand</code></td>
+<td>盔甲架</td>
+</tr>
+<tr data-lines="157,158">
+<td><code>minecraft:item_frame</code></td>
+<td>物品展示框</td>
+</tr>
+<tr data-lines="158,159">
+<td><code>minecraft:glow_item_frame</code></td>
+<td>荧光物品展示框</td>
+</tr>
+<tr data-lines="159,160">
+<td><code>minecraft:painting</code></td>
+<td>画</td>
+</tr>
+<tr data-lines="160,161">
+<td><code>minecraft:block_display</code></td>
+<td>方块展示实体</td>
+</tr>
+<tr data-lines="161,162">
+<td><code>minecraft:item_display</code></td>
+<td>物品展示实体</td>
+</tr>
+<tr data-lines="162,163">
+<td><code>minecraft:text_display</code></td>
+<td>文本展示实体</td>
+</tr>
+<tr data-lines="163,164">
+<td><code>minecraft:interaction</code></td>
+<td>交互实体</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.20" class="markmap-node" transform="translate(278, -4687.78125)"><line stroke="#17becf" stroke-width="1.375" x1="-1" x2="184" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#17becf" fill="var(--markmap-circle-open-bg)" cx="182" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="166" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.6 展示实体 / 装饰实体</div></div></foreignObject></g><g data-depth="4" data-path="1.9.22.23" class="markmap-node" transform="translate(540, -4568.59375)"><line stroke="#2ca02c" stroke-width="1.1875" x1="-1" x2="285" y1="238.59375" y2="238.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="267" height="238"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="167,179">
+<thead data-lines="167,168">
+<tr data-lines="167,168">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="169,179">
+<tr data-lines="169,170">
+<td><code>minecraft:area_effect_cloud</code></td>
+<td>区域效果云</td>
+</tr>
+<tr data-lines="170,171">
+<td><code>minecraft:end_crystal</code></td>
+<td>末地水晶</td>
+</tr>
+<tr data-lines="171,172">
+<td><code>minecraft:evoker_fangs</code></td>
+<td>唤魔者尖牙</td>
+</tr>
+<tr data-lines="172,173">
+<td><code>minecraft:experience_orb</code></td>
+<td>经验球</td>
+</tr>
+<tr data-lines="173,174">
+<td><code>minecraft:falling_block</code></td>
+<td>下落的方块</td>
+</tr>
+<tr data-lines="174,175">
+<td><code>minecraft:item</code></td>
+<td>掉落物实体</td>
+</tr>
+<tr data-lines="175,176">
+<td><code>minecraft:leash_knot</code></td>
+<td>拴结</td>
+</tr>
+<tr data-lines="176,177">
+<td><code>minecraft:lightning_bolt</code></td>
+<td>闪电束</td>
+</tr>
+<tr data-lines="177,178">
+<td><code>minecraft:marker</code></td>
+<td>标记</td>
+</tr>
+<tr data-lines="178,179">
+<td><code>minecraft:tnt</code></td>
+<td>点燃的TNT</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.9.22" class="markmap-node" transform="translate(278, -4460.09375)"><line stroke="#ff7f0e" stroke-width="1.375" x1="-1" x2="184" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="182" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="166" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">1.7 技术实体 / 环境实体</div></div></foreignObject></g><g data-depth="2" data-path="1.9" class="markmap-node" transform="translate(80, -5617.15625)"><line stroke="#bcbd22" stroke-width="1.75" x1="-1" x2="120" y1="21.875" y2="21.875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="118" cy="21.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">一、实体 ID 表</div></div></foreignObject></g><g data-depth="4" data-path="1.24.25.26" class="markmap-node" transform="translate(540, -4319.40625)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="492" y1="6723.59375" y2="6723.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="474" height="6723"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="188,504">
+<thead data-lines="188,189">
+<tr data-lines="188,189">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="190,504">
+<tr data-lines="190,191">
+<td><code>minecraft:stone</code></td>
+<td>石头</td>
+</tr>
+<tr data-lines="191,192">
+<td><code>minecraft:granite</code></td>
+<td>花岗岩</td>
+</tr>
+<tr data-lines="192,193">
+<td><code>minecraft:polished_granite</code></td>
+<td>磨制花岗岩</td>
+</tr>
+<tr data-lines="193,194">
+<td><code>minecraft:diorite</code></td>
+<td>闪长岩</td>
+</tr>
+<tr data-lines="194,195">
+<td><code>minecraft:polished_diorite</code></td>
+<td>磨制闪长岩</td>
+</tr>
+<tr data-lines="195,196">
+<td><code>minecraft:andesite</code></td>
+<td>安山岩</td>
+</tr>
+<tr data-lines="196,197">
+<td><code>minecraft:polished_andesite</code></td>
+<td>磨制安山岩</td>
+</tr>
+<tr data-lines="197,198">
+<td><code>minecraft:deepslate</code></td>
+<td>深板岩</td>
+</tr>
+<tr data-lines="198,199">
+<td><code>minecraft:cobbled_deepslate</code></td>
+<td>深板岩圆石</td>
+</tr>
+<tr data-lines="199,200">
+<td><code>minecraft:polished_deepslate</code></td>
+<td>磨制深板岩</td>
+</tr>
+<tr data-lines="200,201">
+<td><code>minecraft:deepslate_bricks</code></td>
+<td>深板岩砖</td>
+</tr>
+<tr data-lines="201,202">
+<td><code>minecraft:deepslate_tiles</code></td>
+<td>深板岩瓦</td>
+</tr>
+<tr data-lines="202,203">
+<td><code>minecraft:tuff</code></td>
+<td>凝灰岩</td>
+</tr>
+<tr data-lines="203,204">
+<td><code>minecraft:polished_tuff</code></td>
+<td>磨制凝灰岩</td>
+</tr>
+<tr data-lines="204,205">
+<td><code>minecraft:tuff_bricks</code></td>
+<td>凝灰岩砖</td>
+</tr>
+<tr data-lines="205,206">
+<td><code>minecraft:calcite</code></td>
+<td>方解石</td>
+</tr>
+<tr data-lines="206,207">
+<td><code>minecraft:dripstone_block</code></td>
+<td>滴水石块</td>
+</tr>
+<tr data-lines="207,208">
+<td><code>minecraft:grass_block</code></td>
+<td>草方块</td>
+</tr>
+<tr data-lines="208,209">
+<td><code>minecraft:dirt</code></td>
+<td>泥土</td>
+</tr>
+<tr data-lines="209,210">
+<td><code>minecraft:coarse_dirt</code></td>
+<td>砂土</td>
+</tr>
+<tr data-lines="210,211">
+<td><code>minecraft:podzol</code></td>
+<td>灰化土</td>
+</tr>
+<tr data-lines="211,212">
+<td><code>minecraft:rooted_dirt</code></td>
+<td>缠根泥土</td>
+</tr>
+<tr data-lines="212,213">
+<td><code>minecraft:mud</code></td>
+<td>泥巴</td>
+</tr>
+<tr data-lines="213,214">
+<td><code>minecraft:cobblestone</code></td>
+<td>圆石</td>
+</tr>
+<tr data-lines="214,215">
+<td><code>minecraft:mossy_cobblestone</code></td>
+<td>苔石</td>
+</tr>
+<tr data-lines="215,216">
+<td><code>minecraft:stone_bricks</code></td>
+<td>石砖</td>
+</tr>
+<tr data-lines="216,217">
+<td><code>minecraft:mossy_stone_bricks</code></td>
+<td>苔石砖</td>
+</tr>
+<tr data-lines="217,218">
+<td><code>minecraft:cracked_stone_bricks</code></td>
+<td>裂石砖</td>
+</tr>
+<tr data-lines="218,219">
+<td><code>minecraft:chiseled_stone_bricks</code></td>
+<td>雕纹石砖</td>
+</tr>
+<tr data-lines="219,220">
+<td><code>minecraft:cracked_deepslate_bricks</code></td>
+<td>裂纹深板岩砖</td>
+</tr>
+<tr data-lines="220,221">
+<td><code>minecraft:cracked_deepslate_tiles</code></td>
+<td>裂纹深板岩瓦</td>
+</tr>
+<tr data-lines="221,222">
+<td><code>minecraft:chiseled_tuff</code></td>
+<td>雕纹凝灰岩</td>
+</tr>
+<tr data-lines="222,223">
+<td><code>minecraft:bricks</code></td>
+<td>红砖块</td>
+</tr>
+<tr data-lines="223,224">
+<td><code>minecraft:mud_bricks</code></td>
+<td>泥砖</td>
+</tr>
+<tr data-lines="224,225">
+<td><code>minecraft:packed_mud</code></td>
+<td>packed mud</td>
+</tr>
+<tr data-lines="225,226">
+<td><code>minecraft:nether_bricks</code></td>
+<td>下界砖块</td>
+</tr>
+<tr data-lines="226,227">
+<td><code>minecraft:cracked_nether_bricks</code></td>
+<td>裂纹下界砖块</td>
+</tr>
+<tr data-lines="227,228">
+<td><code>minecraft:chiseled_nether_bricks</code></td>
+<td>雕纹下界砖块</td>
+</tr>
+<tr data-lines="228,229">
+<td><code>minecraft:red_nether_bricks</code></td>
+<td>红色下界砖块</td>
+</tr>
+<tr data-lines="229,230">
+<td><code>minecraft:end_stone</code></td>
+<td>末地石</td>
+</tr>
+<tr data-lines="230,231">
+<td><code>minecraft:end_stone_bricks</code></td>
+<td>末地石砖</td>
+</tr>
+<tr data-lines="231,232">
+<td><code>minecraft:quartz_bricks</code></td>
+<td>石英砖</td>
+</tr>
+<tr data-lines="232,233">
+<td><code>minecraft:smooth_quartz</code></td>
+<td>平滑石英块</td>
+</tr>
+<tr data-lines="233,234">
+<td><code>minecraft:purpur_block</code></td>
+<td>紫珀块</td>
+</tr>
+<tr data-lines="234,235">
+<td><code>minecraft:purpur_pillar</code></td>
+<td>紫珀柱</td>
+</tr>
+<tr data-lines="235,236">
+<td><code>minecraft:oak_planks</code></td>
+<td>橡木木板</td>
+</tr>
+<tr data-lines="236,237">
+<td><code>minecraft:spruce_planks</code></td>
+<td>云杉木板</td>
+</tr>
+<tr data-lines="237,238">
+<td><code>minecraft:birch_planks</code></td>
+<td>白桦木板</td>
+</tr>
+<tr data-lines="238,239">
+<td><code>minecraft:jungle_planks</code></td>
+<td>丛林木板</td>
+</tr>
+<tr data-lines="239,240">
+<td><code>minecraft:acacia_planks</code></td>
+<td>金合欢木板</td>
+</tr>
+<tr data-lines="240,241">
+<td><code>minecraft:dark_oak_planks</code></td>
+<td>深色橡木木板</td>
+</tr>
+<tr data-lines="241,242">
+<td><code>minecraft:mangrove_planks</code></td>
+<td>红树木板</td>
+</tr>
+<tr data-lines="242,243">
+<td><code>minecraft:cherry_planks</code></td>
+<td>樱花木板</td>
+</tr>
+<tr data-lines="243,244">
+<td><code>minecraft:bamboo_planks</code></td>
+<td>竹板</td>
+</tr>
+<tr data-lines="244,245">
+<td><code>minecraft:bamboo_mosaic</code></td>
+<td>竹马赛克</td>
+</tr>
+<tr data-lines="245,246">
+<td><code>minecraft:pale_oak_planks</code></td>
+<td>苍白橡木木板 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="246,247">
+<td><code>minecraft:crimson_planks</code></td>
+<td>绯红木板</td>
+</tr>
+<tr data-lines="247,248">
+<td><code>minecraft:warped_planks</code></td>
+<td>诡异木板</td>
+</tr>
+<tr data-lines="248,249">
+<td><code>minecraft:oak_log</code></td>
+<td>橡木原木</td>
+</tr>
+<tr data-lines="249,250">
+<td><code>minecraft:spruce_log</code></td>
+<td>云杉原木</td>
+</tr>
+<tr data-lines="250,251">
+<td><code>minecraft:birch_log</code></td>
+<td>白桦原木</td>
+</tr>
+<tr data-lines="251,252">
+<td><code>minecraft:jungle_log</code></td>
+<td>丛林原木</td>
+</tr>
+<tr data-lines="252,253">
+<td><code>minecraft:acacia_log</code></td>
+<td>金合欢原木</td>
+</tr>
+<tr data-lines="253,254">
+<td><code>minecraft:dark_oak_log</code></td>
+<td>深色橡木原木</td>
+</tr>
+<tr data-lines="254,255">
+<td><code>minecraft:mangrove_log</code></td>
+<td>红树原木</td>
+</tr>
+<tr data-lines="255,256">
+<td><code>minecraft:cherry_log</code></td>
+<td>樱花原木</td>
+</tr>
+<tr data-lines="256,257">
+<td><code>minecraft:pale_oak_log</code></td>
+<td>苍白橡木原木 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="257,258">
+<td><code>minecraft:bamboo_block</code></td>
+<td>竹块</td>
+</tr>
+<tr data-lines="258,259">
+<td><code>minecraft:crimson_stem</code></td>
+<td>绯红菌柄</td>
+</tr>
+<tr data-lines="259,260">
+<td><code>minecraft:warped_stem</code></td>
+<td>诡异菌柄</td>
+</tr>
+<tr data-lines="260,261">
+<td><code>minecraft:stripped_oak_log</code></td>
+<td>去皮橡木原木</td>
+</tr>
+<tr data-lines="261,262">
+<td><code>minecraft:stripped_spruce_log</code></td>
+<td>去皮云杉原木</td>
+</tr>
+<tr data-lines="262,263">
+<td><code>minecraft:stripped_birch_log</code></td>
+<td>去皮白桦原木</td>
+</tr>
+<tr data-lines="263,264">
+<td><code>minecraft:stripped_jungle_log</code></td>
+<td>去皮丛林原木</td>
+</tr>
+<tr data-lines="264,265">
+<td><code>minecraft:stripped_acacia_log</code></td>
+<td>去皮金合欢原木</td>
+</tr>
+<tr data-lines="265,266">
+<td><code>minecraft:stripped_dark_oak_log</code></td>
+<td>去皮深色橡木原木</td>
+</tr>
+<tr data-lines="266,267">
+<td><code>minecraft:stripped_mangrove_log</code></td>
+<td>去皮红树原木</td>
+</tr>
+<tr data-lines="267,268">
+<td><code>minecraft:stripped_cherry_log</code></td>
+<td>去皮樱花原木</td>
+</tr>
+<tr data-lines="268,269">
+<td><code>minecraft:stripped_pale_oak_log</code></td>
+<td>去皮苍白橡木原木 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="269,270">
+<td><code>minecraft:stripped_bamboo_block</code></td>
+<td>去皮竹块</td>
+</tr>
+<tr data-lines="270,271">
+<td><code>minecraft:stripped_crimson_stem</code></td>
+<td>去皮绯红菌柄</td>
+</tr>
+<tr data-lines="271,272">
+<td><code>minecraft:stripped_warped_stem</code></td>
+<td>去皮诡异菌柄</td>
+</tr>
+<tr data-lines="272,273">
+<td><code>minecraft:oak_leaves</code></td>
+<td>橡树树叶</td>
+</tr>
+<tr data-lines="273,274">
+<td><code>minecraft:spruce_leaves</code></td>
+<td>云杉树叶</td>
+</tr>
+<tr data-lines="274,275">
+<td><code>minecraft:birch_leaves</code></td>
+<td>白桦树叶</td>
+</tr>
+<tr data-lines="275,276">
+<td><code>minecraft:jungle_leaves</code></td>
+<td>丛林树叶</td>
+</tr>
+<tr data-lines="276,277">
+<td><code>minecraft:acacia_leaves</code></td>
+<td>金合欢树叶</td>
+</tr>
+<tr data-lines="277,278">
+<td><code>minecraft:dark_oak_leaves</code></td>
+<td>深色橡树树叶</td>
+</tr>
+<tr data-lines="278,279">
+<td><code>minecraft:mangrove_leaves</code></td>
+<td>红树树叶</td>
+</tr>
+<tr data-lines="279,280">
+<td><code>minecraft:cherry_leaves</code></td>
+<td>樱花树叶</td>
+</tr>
+<tr data-lines="280,281">
+<td><code>minecraft:azalea_leaves</code></td>
+<td>杜鹃树叶</td>
+</tr>
+<tr data-lines="281,282">
+<td><code>minecraft:flowering_azalea_leaves</code></td>
+<td>盛开的杜鹃树叶</td>
+</tr>
+<tr data-lines="282,283">
+<td><code>minecraft:pale_oak_leaves</code></td>
+<td>苍白橡树树叶 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="283,284">
+<td><code>minecraft:coal_block</code></td>
+<td>煤炭块</td>
+</tr>
+<tr data-lines="284,285">
+<td><code>minecraft:raw_iron_block</code></td>
+<td>粗铁块</td>
+</tr>
+<tr data-lines="285,286">
+<td><code>minecraft:raw_copper_block</code></td>
+<td>粗铜块</td>
+</tr>
+<tr data-lines="286,287">
+<td><code>minecraft:raw_gold_block</code></td>
+<td>粗金块</td>
+</tr>
+<tr data-lines="287,288">
+<td><code>minecraft:amethyst_block</code></td>
+<td>紫水晶块</td>
+</tr>
+<tr data-lines="288,289">
+<td><code>minecraft:budding_amethyst</code></td>
+<td>紫水晶母岩</td>
+</tr>
+<tr data-lines="289,290">
+<td><code>minecraft:iron_block</code></td>
+<td>铁块</td>
+</tr>
+<tr data-lines="290,291">
+<td><code>minecraft:copper_block</code></td>
+<td>铜块</td>
+</tr>
+<tr data-lines="291,292">
+<td><code>minecraft:gold_block</code></td>
+<td>金块</td>
+</tr>
+<tr data-lines="292,293">
+<td><code>minecraft:diamond_block</code></td>
+<td>钻石块</td>
+</tr>
+<tr data-lines="293,294">
+<td><code>minecraft:netherite_block</code></td>
+<td>下界合金块</td>
+</tr>
+<tr data-lines="294,295">
+<td><code>minecraft:lapis_block</code></td>
+<td>青金石块</td>
+</tr>
+<tr data-lines="295,296">
+<td><code>minecraft:emerald_block</code></td>
+<td>绿宝石块</td>
+</tr>
+<tr data-lines="296,297">
+<td><code>minecraft:quartz_block</code></td>
+<td>石英块</td>
+</tr>
+<tr data-lines="297,298">
+<td><code>minecraft:exposed_copper</code></td>
+<td>斑驳的铜块</td>
+</tr>
+<tr data-lines="298,299">
+<td><code>minecraft:weathered_copper</code></td>
+<td>锈蚀的铜块</td>
+</tr>
+<tr data-lines="299,300">
+<td><code>minecraft:oxidized_copper</code></td>
+<td>氧化的铜块</td>
+</tr>
+<tr data-lines="300,301">
+<td><code>minecraft:cut_copper</code></td>
+<td>切制铜块</td>
+</tr>
+<tr data-lines="301,302">
+<td><code>minecraft:exposed_cut_copper</code></td>
+<td>斑驳的切制铜块</td>
+</tr>
+<tr data-lines="302,303">
+<td><code>minecraft:weathered_cut_copper</code></td>
+<td>锈蚀的切制铜块</td>
+</tr>
+<tr data-lines="303,304">
+<td><code>minecraft:oxidized_cut_copper</code></td>
+<td>氧化的切制铜块</td>
+</tr>
+<tr data-lines="304,305">
+<td><code>minecraft:waxed_copper_block</code></td>
+<td>涂蜡铜块</td>
+</tr>
+<tr data-lines="305,306">
+<td><code>minecraft:waxed_exposed_copper</code></td>
+<td>涂蜡斑驳铜块</td>
+</tr>
+<tr data-lines="306,307">
+<td><code>minecraft:waxed_weathered_copper</code></td>
+<td>涂蜡锈蚀铜块</td>
+</tr>
+<tr data-lines="307,308">
+<td><code>minecraft:waxed_oxidized_copper</code></td>
+<td>涂蜡氧化铜块</td>
+</tr>
+<tr data-lines="308,309">
+<td><code>minecraft:glass</code></td>
+<td>玻璃</td>
+</tr>
+<tr data-lines="309,310">
+<td><code>minecraft:tinted_glass</code></td>
+<td>遮光玻璃</td>
+</tr>
+<tr data-lines="310,311">
+<td><code>minecraft:white_stained_glass</code></td>
+<td>白色染色玻璃</td>
+</tr>
+<tr data-lines="311,312">
+<td><code>minecraft:orange_stained_glass</code></td>
+<td>橙色染色玻璃</td>
+</tr>
+<tr data-lines="312,313">
+<td><code>minecraft:magenta_stained_glass</code></td>
+<td>品红色染色玻璃</td>
+</tr>
+<tr data-lines="313,314">
+<td><code>minecraft:light_blue_stained_glass</code></td>
+<td>淡蓝色染色玻璃</td>
+</tr>
+<tr data-lines="314,315">
+<td><code>minecraft:yellow_stained_glass</code></td>
+<td>黄色染色玻璃</td>
+</tr>
+<tr data-lines="315,316">
+<td><code>minecraft:lime_stained_glass</code></td>
+<td>黄绿色染色玻璃</td>
+</tr>
+<tr data-lines="316,317">
+<td><code>minecraft:pink_stained_glass</code></td>
+<td>粉红色染色玻璃</td>
+</tr>
+<tr data-lines="317,318">
+<td><code>minecraft:gray_stained_glass</code></td>
+<td>灰色染色玻璃</td>
+</tr>
+<tr data-lines="318,319">
+<td><code>minecraft:light_gray_stained_glass</code></td>
+<td>淡灰色染色玻璃</td>
+</tr>
+<tr data-lines="319,320">
+<td><code>minecraft:cyan_stained_glass</code></td>
+<td>青色染色玻璃</td>
+</tr>
+<tr data-lines="320,321">
+<td><code>minecraft:purple_stained_glass</code></td>
+<td>紫色染色玻璃</td>
+</tr>
+<tr data-lines="321,322">
+<td><code>minecraft:blue_stained_glass</code></td>
+<td>蓝色染色玻璃</td>
+</tr>
+<tr data-lines="322,323">
+<td><code>minecraft:brown_stained_glass</code></td>
+<td>棕色染色玻璃</td>
+</tr>
+<tr data-lines="323,324">
+<td><code>minecraft:green_stained_glass</code></td>
+<td>绿色染色玻璃</td>
+</tr>
+<tr data-lines="324,325">
+<td><code>minecraft:red_stained_glass</code></td>
+<td>红色染色玻璃</td>
+</tr>
+<tr data-lines="325,326">
+<td><code>minecraft:black_stained_glass</code></td>
+<td>黑色染色玻璃</td>
+</tr>
+<tr data-lines="326,327">
+<td><code>minecraft:white_stained_glass_pane</code></td>
+<td>白色染色玻璃板</td>
+</tr>
+<tr data-lines="327,328">
+<td><code>minecraft:orange_stained_glass_pane</code></td>
+<td>橙色染色玻璃板</td>
+</tr>
+<tr data-lines="328,329">
+<td><code>minecraft:magenta_stained_glass_pane</code></td>
+<td>品红色染色玻璃板</td>
+</tr>
+<tr data-lines="329,330">
+<td><code>minecraft:light_blue_stained_glass_pane</code></td>
+<td>淡蓝色染色玻璃板</td>
+</tr>
+<tr data-lines="330,331">
+<td><code>minecraft:yellow_stained_glass_pane</code></td>
+<td>黄色染色玻璃板</td>
+</tr>
+<tr data-lines="331,332">
+<td><code>minecraft:lime_stained_glass_pane</code></td>
+<td>黄绿色染色玻璃板</td>
+</tr>
+<tr data-lines="332,333">
+<td><code>minecraft:pink_stained_glass_pane</code></td>
+<td>粉红色染色玻璃板</td>
+</tr>
+<tr data-lines="333,334">
+<td><code>minecraft:gray_stained_glass_pane</code></td>
+<td>灰色染色玻璃板</td>
+</tr>
+<tr data-lines="334,335">
+<td><code>minecraft:light_gray_stained_glass_pane</code></td>
+<td>淡灰色染色玻璃板</td>
+</tr>
+<tr data-lines="335,336">
+<td><code>minecraft:cyan_stained_glass_pane</code></td>
+<td>青色染色玻璃板</td>
+</tr>
+<tr data-lines="336,337">
+<td><code>minecraft:purple_stained_glass_pane</code></td>
+<td>紫色染色玻璃板</td>
+</tr>
+<tr data-lines="337,338">
+<td><code>minecraft:blue_stained_glass_pane</code></td>
+<td>蓝色染色玻璃板</td>
+</tr>
+<tr data-lines="338,339">
+<td><code>minecraft:brown_stained_glass_pane</code></td>
+<td>棕色染色玻璃板</td>
+</tr>
+<tr data-lines="339,340">
+<td><code>minecraft:green_stained_glass_pane</code></td>
+<td>绿色染色玻璃板</td>
+</tr>
+<tr data-lines="340,341">
+<td><code>minecraft:red_stained_glass_pane</code></td>
+<td>红色染色玻璃板</td>
+</tr>
+<tr data-lines="341,342">
+<td><code>minecraft:black_stained_glass_pane</code></td>
+<td>黑色染色玻璃板</td>
+</tr>
+<tr data-lines="342,343">
+<td><code>minecraft:terracotta</code></td>
+<td>陶瓦</td>
+</tr>
+<tr data-lines="343,344">
+<td><code>minecraft:white_terracotta</code></td>
+<td>白色陶瓦</td>
+</tr>
+<tr data-lines="344,345">
+<td><code>minecraft:orange_terracotta</code></td>
+<td>橙色陶瓦</td>
+</tr>
+<tr data-lines="345,346">
+<td><code>minecraft:magenta_terracotta</code></td>
+<td>品红色陶瓦</td>
+</tr>
+<tr data-lines="346,347">
+<td><code>minecraft:light_blue_terracotta</code></td>
+<td>淡蓝色陶瓦</td>
+</tr>
+<tr data-lines="347,348">
+<td><code>minecraft:yellow_terracotta</code></td>
+<td>黄色陶瓦</td>
+</tr>
+<tr data-lines="348,349">
+<td><code>minecraft:lime_terracotta</code></td>
+<td>黄绿色陶瓦</td>
+</tr>
+<tr data-lines="349,350">
+<td><code>minecraft:pink_terracotta</code></td>
+<td>粉红色陶瓦</td>
+</tr>
+<tr data-lines="350,351">
+<td><code>minecraft:gray_terracotta</code></td>
+<td>灰色陶瓦</td>
+</tr>
+<tr data-lines="351,352">
+<td><code>minecraft:light_gray_terracotta</code></td>
+<td>淡灰色陶瓦</td>
+</tr>
+<tr data-lines="352,353">
+<td><code>minecraft:cyan_terracotta</code></td>
+<td>青色陶瓦</td>
+</tr>
+<tr data-lines="353,354">
+<td><code>minecraft:purple_terracotta</code></td>
+<td>紫色陶瓦</td>
+</tr>
+<tr data-lines="354,355">
+<td><code>minecraft:blue_terracotta</code></td>
+<td>蓝色陶瓦</td>
+</tr>
+<tr data-lines="355,356">
+<td><code>minecraft:brown_terracotta</code></td>
+<td>棕色陶瓦</td>
+</tr>
+<tr data-lines="356,357">
+<td><code>minecraft:green_terracotta</code></td>
+<td>绿色陶瓦</td>
+</tr>
+<tr data-lines="357,358">
+<td><code>minecraft:red_terracotta</code></td>
+<td>红色陶瓦</td>
+</tr>
+<tr data-lines="358,359">
+<td><code>minecraft:black_terracotta</code></td>
+<td>黑色陶瓦</td>
+</tr>
+<tr data-lines="359,360">
+<td><code>minecraft:white_concrete</code></td>
+<td>白色混凝土</td>
+</tr>
+<tr data-lines="360,361">
+<td><code>minecraft:orange_concrete</code></td>
+<td>橙色混凝土</td>
+</tr>
+<tr data-lines="361,362">
+<td><code>minecraft:magenta_concrete</code></td>
+<td>品红色混凝土</td>
+</tr>
+<tr data-lines="362,363">
+<td><code>minecraft:light_blue_concrete</code></td>
+<td>淡蓝色混凝土</td>
+</tr>
+<tr data-lines="363,364">
+<td><code>minecraft:yellow_concrete</code></td>
+<td>黄色混凝土</td>
+</tr>
+<tr data-lines="364,365">
+<td><code>minecraft:lime_concrete</code></td>
+<td>黄绿色混凝土</td>
+</tr>
+<tr data-lines="365,366">
+<td><code>minecraft:pink_concrete</code></td>
+<td>粉红色混凝土</td>
+</tr>
+<tr data-lines="366,367">
+<td><code>minecraft:gray_concrete</code></td>
+<td>灰色混凝土</td>
+</tr>
+<tr data-lines="367,368">
+<td><code>minecraft:light_gray_concrete</code></td>
+<td>淡灰色混凝土</td>
+</tr>
+<tr data-lines="368,369">
+<td><code>minecraft:cyan_concrete</code></td>
+<td>青色混凝土</td>
+</tr>
+<tr data-lines="369,370">
+<td><code>minecraft:purple_concrete</code></td>
+<td>紫色混凝土</td>
+</tr>
+<tr data-lines="370,371">
+<td><code>minecraft:blue_concrete</code></td>
+<td>蓝色混凝土</td>
+</tr>
+<tr data-lines="371,372">
+<td><code>minecraft:brown_concrete</code></td>
+<td>棕色混凝土</td>
+</tr>
+<tr data-lines="372,373">
+<td><code>minecraft:green_concrete</code></td>
+<td>绿色混凝土</td>
+</tr>
+<tr data-lines="373,374">
+<td><code>minecraft:red_concrete</code></td>
+<td>红色混凝土</td>
+</tr>
+<tr data-lines="374,375">
+<td><code>minecraft:black_concrete</code></td>
+<td>黑色混凝土</td>
+</tr>
+<tr data-lines="375,376">
+<td><code>minecraft:white_concrete_powder</code></td>
+<td>白色混凝土粉末</td>
+</tr>
+<tr data-lines="376,377">
+<td><code>minecraft:orange_concrete_powder</code></td>
+<td>橙色混凝土粉末</td>
+</tr>
+<tr data-lines="377,378">
+<td><code>minecraft:magenta_concrete_powder</code></td>
+<td>品红色混凝土粉末</td>
+</tr>
+<tr data-lines="378,379">
+<td><code>minecraft:light_blue_concrete_powder</code></td>
+<td>淡蓝色混凝土粉末</td>
+</tr>
+<tr data-lines="379,380">
+<td><code>minecraft:yellow_concrete_powder</code></td>
+<td>黄色混凝土粉末</td>
+</tr>
+<tr data-lines="380,381">
+<td><code>minecraft:lime_concrete_powder</code></td>
+<td>黄绿色混凝土粉末</td>
+</tr>
+<tr data-lines="381,382">
+<td><code>minecraft:pink_concrete_powder</code></td>
+<td>粉红色混凝土粉末</td>
+</tr>
+<tr data-lines="382,383">
+<td><code>minecraft:gray_concrete_powder</code></td>
+<td>灰色混凝土粉末</td>
+</tr>
+<tr data-lines="383,384">
+<td><code>minecraft:light_gray_concrete_powder</code></td>
+<td>淡灰色混凝土粉末</td>
+</tr>
+<tr data-lines="384,385">
+<td><code>minecraft:cyan_concrete_powder</code></td>
+<td>青色混凝土粉末</td>
+</tr>
+<tr data-lines="385,386">
+<td><code>minecraft:purple_concrete_powder</code></td>
+<td>紫色混凝土粉末</td>
+</tr>
+<tr data-lines="386,387">
+<td><code>minecraft:blue_concrete_powder</code></td>
+<td>蓝色混凝土粉末</td>
+</tr>
+<tr data-lines="387,388">
+<td><code>minecraft:brown_concrete_powder</code></td>
+<td>棕色混凝土粉末</td>
+</tr>
+<tr data-lines="388,389">
+<td><code>minecraft:green_concrete_powder</code></td>
+<td>绿色混凝土粉末</td>
+</tr>
+<tr data-lines="389,390">
+<td><code>minecraft:red_concrete_powder</code></td>
+<td>红色混凝土粉末</td>
+</tr>
+<tr data-lines="390,391">
+<td><code>minecraft:black_concrete_powder</code></td>
+<td>黑色混凝土粉末</td>
+</tr>
+<tr data-lines="391,392">
+<td><code>minecraft:white_glazed_terracotta</code></td>
+<td>白色带釉陶瓦</td>
+</tr>
+<tr data-lines="392,393">
+<td><code>minecraft:orange_glazed_terracotta</code></td>
+<td>橙色带釉陶瓦</td>
+</tr>
+<tr data-lines="393,394">
+<td><code>minecraft:magenta_glazed_terracotta</code></td>
+<td>品红色带釉陶瓦</td>
+</tr>
+<tr data-lines="394,395">
+<td><code>minecraft:light_blue_glazed_terracotta</code></td>
+<td>淡蓝色带釉陶瓦</td>
+</tr>
+<tr data-lines="395,396">
+<td><code>minecraft:yellow_glazed_terracotta</code></td>
+<td>黄色带釉陶瓦</td>
+</tr>
+<tr data-lines="396,397">
+<td><code>minecraft:lime_glazed_terracotta</code></td>
+<td>黄绿色带釉陶瓦</td>
+</tr>
+<tr data-lines="397,398">
+<td><code>minecraft:pink_glazed_terracotta</code></td>
+<td>粉红色带釉陶瓦</td>
+</tr>
+<tr data-lines="398,399">
+<td><code>minecraft:gray_glazed_terracotta</code></td>
+<td>灰色带釉陶瓦</td>
+</tr>
+<tr data-lines="399,400">
+<td><code>minecraft:light_gray_glazed_terracotta</code></td>
+<td>淡灰色带釉陶瓦</td>
+</tr>
+<tr data-lines="400,401">
+<td><code>minecraft:cyan_glazed_terracotta</code></td>
+<td>青色带釉陶瓦</td>
+</tr>
+<tr data-lines="401,402">
+<td><code>minecraft:purple_glazed_terracotta</code></td>
+<td>紫色带釉陶瓦</td>
+</tr>
+<tr data-lines="402,403">
+<td><code>minecraft:blue_glazed_terracotta</code></td>
+<td>蓝色带釉陶瓦</td>
+</tr>
+<tr data-lines="403,404">
+<td><code>minecraft:brown_glazed_terracotta</code></td>
+<td>棕色带釉陶瓦</td>
+</tr>
+<tr data-lines="404,405">
+<td><code>minecraft:green_glazed_terracotta</code></td>
+<td>绿色带釉陶瓦</td>
+</tr>
+<tr data-lines="405,406">
+<td><code>minecraft:red_glazed_terracotta</code></td>
+<td>红色带釉陶瓦</td>
+</tr>
+<tr data-lines="406,407">
+<td><code>minecraft:black_glazed_terracotta</code></td>
+<td>黑色带釉陶瓦</td>
+</tr>
+<tr data-lines="407,408">
+<td><code>minecraft:white_wool</code></td>
+<td>白色羊毛</td>
+</tr>
+<tr data-lines="408,409">
+<td><code>minecraft:orange_wool</code></td>
+<td>橙色羊毛</td>
+</tr>
+<tr data-lines="409,410">
+<td><code>minecraft:magenta_wool</code></td>
+<td>品红色羊毛</td>
+</tr>
+<tr data-lines="410,411">
+<td><code>minecraft:light_blue_wool</code></td>
+<td>淡蓝色羊毛</td>
+</tr>
+<tr data-lines="411,412">
+<td><code>minecraft:yellow_wool</code></td>
+<td>黄色羊毛</td>
+</tr>
+<tr data-lines="412,413">
+<td><code>minecraft:lime_wool</code></td>
+<td>黄绿色羊毛</td>
+</tr>
+<tr data-lines="413,414">
+<td><code>minecraft:pink_wool</code></td>
+<td>粉红色羊毛</td>
+</tr>
+<tr data-lines="414,415">
+<td><code>minecraft:gray_wool</code></td>
+<td>灰色羊毛</td>
+</tr>
+<tr data-lines="415,416">
+<td><code>minecraft:light_gray_wool</code></td>
+<td>淡灰色羊毛</td>
+</tr>
+<tr data-lines="416,417">
+<td><code>minecraft:cyan_wool</code></td>
+<td>青色羊毛</td>
+</tr>
+<tr data-lines="417,418">
+<td><code>minecraft:purple_wool</code></td>
+<td>紫色羊毛</td>
+</tr>
+<tr data-lines="418,419">
+<td><code>minecraft:blue_wool</code></td>
+<td>蓝色羊毛</td>
+</tr>
+<tr data-lines="419,420">
+<td><code>minecraft:brown_wool</code></td>
+<td>棕色羊毛</td>
+</tr>
+<tr data-lines="420,421">
+<td><code>minecraft:green_wool</code></td>
+<td>绿色羊毛</td>
+</tr>
+<tr data-lines="421,422">
+<td><code>minecraft:red_wool</code></td>
+<td>红色羊毛</td>
+</tr>
+<tr data-lines="422,423">
+<td><code>minecraft:black_wool</code></td>
+<td>黑色羊毛</td>
+</tr>
+<tr data-lines="423,424">
+<td><code>minecraft:white_carpet</code></td>
+<td>白色地毯</td>
+</tr>
+<tr data-lines="424,425">
+<td><code>minecraft:orange_carpet</code></td>
+<td>橙色地毯</td>
+</tr>
+<tr data-lines="425,426">
+<td><code>minecraft:magenta_carpet</code></td>
+<td>品红色地毯</td>
+</tr>
+<tr data-lines="426,427">
+<td><code>minecraft:light_blue_carpet</code></td>
+<td>淡蓝色地毯</td>
+</tr>
+<tr data-lines="427,428">
+<td><code>minecraft:yellow_carpet</code></td>
+<td>黄色地毯</td>
+</tr>
+<tr data-lines="428,429">
+<td><code>minecraft:lime_carpet</code></td>
+<td>黄绿色地毯</td>
+</tr>
+<tr data-lines="429,430">
+<td><code>minecraft:pink_carpet</code></td>
+<td>粉红色地毯</td>
+</tr>
+<tr data-lines="430,431">
+<td><code>minecraft:gray_carpet</code></td>
+<td>灰色地毯</td>
+</tr>
+<tr data-lines="431,432">
+<td><code>minecraft:light_gray_carpet</code></td>
+<td>淡灰色地毯</td>
+</tr>
+<tr data-lines="432,433">
+<td><code>minecraft:cyan_carpet</code></td>
+<td>青色地毯</td>
+</tr>
+<tr data-lines="433,434">
+<td><code>minecraft:purple_carpet</code></td>
+<td>紫色地毯</td>
+</tr>
+<tr data-lines="434,435">
+<td><code>minecraft:blue_carpet</code></td>
+<td>蓝色地毯</td>
+</tr>
+<tr data-lines="435,436">
+<td><code>minecraft:brown_carpet</code></td>
+<td>棕色地毯</td>
+</tr>
+<tr data-lines="436,437">
+<td><code>minecraft:green_carpet</code></td>
+<td>绿色地毯</td>
+</tr>
+<tr data-lines="437,438">
+<td><code>minecraft:red_carpet</code></td>
+<td>红色地毯</td>
+</tr>
+<tr data-lines="438,439">
+<td><code>minecraft:black_carpet</code></td>
+<td>黑色地毯</td>
+</tr>
+<tr data-lines="439,440">
+<td><code>minecraft:white_bed</code></td>
+<td>白色床</td>
+</tr>
+<tr data-lines="440,441">
+<td><code>minecraft:orange_bed</code></td>
+<td>橙色床</td>
+</tr>
+<tr data-lines="441,442">
+<td><code>minecraft:magenta_bed</code></td>
+<td>品红色床</td>
+</tr>
+<tr data-lines="442,443">
+<td><code>minecraft:light_blue_bed</code></td>
+<td>淡蓝色床</td>
+</tr>
+<tr data-lines="443,444">
+<td><code>minecraft:yellow_bed</code></td>
+<td>黄色床</td>
+</tr>
+<tr data-lines="444,445">
+<td><code>minecraft:lime_bed</code></td>
+<td>黄绿色床</td>
+</tr>
+<tr data-lines="445,446">
+<td><code>minecraft:pink_bed</code></td>
+<td>粉红色床</td>
+</tr>
+<tr data-lines="446,447">
+<td><code>minecraft:gray_bed</code></td>
+<td>灰色床</td>
+</tr>
+<tr data-lines="447,448">
+<td><code>minecraft:light_gray_bed</code></td>
+<td>淡灰色床</td>
+</tr>
+<tr data-lines="448,449">
+<td><code>minecraft:cyan_bed</code></td>
+<td>青色床</td>
+</tr>
+<tr data-lines="449,450">
+<td><code>minecraft:purple_bed</code></td>
+<td>紫色床</td>
+</tr>
+<tr data-lines="450,451">
+<td><code>minecraft:blue_bed</code></td>
+<td>蓝色床</td>
+</tr>
+<tr data-lines="451,452">
+<td><code>minecraft:brown_bed</code></td>
+<td>棕色床</td>
+</tr>
+<tr data-lines="452,453">
+<td><code>minecraft:green_bed</code></td>
+<td>绿色床</td>
+</tr>
+<tr data-lines="453,454">
+<td><code>minecraft:red_bed</code></td>
+<td>红色床</td>
+</tr>
+<tr data-lines="454,455">
+<td><code>minecraft:black_bed</code></td>
+<td>黑色床</td>
+</tr>
+<tr data-lines="455,456">
+<td><code>minecraft:white_banner</code></td>
+<td>白色旗帜</td>
+</tr>
+<tr data-lines="456,457">
+<td><code>minecraft:orange_banner</code></td>
+<td>橙色旗帜</td>
+</tr>
+<tr data-lines="457,458">
+<td><code>minecraft:magenta_banner</code></td>
+<td>品红色旗帜</td>
+</tr>
+<tr data-lines="458,459">
+<td><code>minecraft:light_blue_banner</code></td>
+<td>淡蓝色旗帜</td>
+</tr>
+<tr data-lines="459,460">
+<td><code>minecraft:yellow_banner</code></td>
+<td>黄色旗帜</td>
+</tr>
+<tr data-lines="460,461">
+<td><code>minecraft:lime_banner</code></td>
+<td>黄绿色旗帜</td>
+</tr>
+<tr data-lines="461,462">
+<td><code>minecraft:pink_banner</code></td>
+<td>粉红色旗帜</td>
+</tr>
+<tr data-lines="462,463">
+<td><code>minecraft:gray_banner</code></td>
+<td>灰色旗帜</td>
+</tr>
+<tr data-lines="463,464">
+<td><code>minecraft:light_gray_banner</code></td>
+<td>淡灰色旗帜</td>
+</tr>
+<tr data-lines="464,465">
+<td><code>minecraft:cyan_banner</code></td>
+<td>青色旗帜</td>
+</tr>
+<tr data-lines="465,466">
+<td><code>minecraft:purple_banner</code></td>
+<td>紫色旗帜</td>
+</tr>
+<tr data-lines="466,467">
+<td><code>minecraft:blue_banner</code></td>
+<td>蓝色旗帜</td>
+</tr>
+<tr data-lines="467,468">
+<td><code>minecraft:brown_banner</code></td>
+<td>棕色旗帜</td>
+</tr>
+<tr data-lines="468,469">
+<td><code>minecraft:green_banner</code></td>
+<td>绿色旗帜</td>
+</tr>
+<tr data-lines="469,470">
+<td><code>minecraft:red_banner</code></td>
+<td>红色旗帜</td>
+</tr>
+<tr data-lines="470,471">
+<td><code>minecraft:black_banner</code></td>
+<td>黑色旗帜</td>
+</tr>
+<tr data-lines="471,472">
+<td><code>minecraft:white_candle</code></td>
+<td>白色蜡烛</td>
+</tr>
+<tr data-lines="472,473">
+<td><code>minecraft:orange_candle</code></td>
+<td>橙色蜡烛</td>
+</tr>
+<tr data-lines="473,474">
+<td><code>minecraft:magenta_candle</code></td>
+<td>品红色蜡烛</td>
+</tr>
+<tr data-lines="474,475">
+<td><code>minecraft:light_blue_candle</code></td>
+<td>淡蓝色蜡烛</td>
+</tr>
+<tr data-lines="475,476">
+<td><code>minecraft:yellow_candle</code></td>
+<td>黄色蜡烛</td>
+</tr>
+<tr data-lines="476,477">
+<td><code>minecraft:lime_candle</code></td>
+<td>黄绿色蜡烛</td>
+</tr>
+<tr data-lines="477,478">
+<td><code>minecraft:pink_candle</code></td>
+<td>粉红色蜡烛</td>
+</tr>
+<tr data-lines="478,479">
+<td><code>minecraft:gray_candle</code></td>
+<td>灰色蜡烛</td>
+</tr>
+<tr data-lines="479,480">
+<td><code>minecraft:light_gray_candle</code></td>
+<td>淡灰色蜡烛</td>
+</tr>
+<tr data-lines="480,481">
+<td><code>minecraft:cyan_candle</code></td>
+<td>青色蜡烛</td>
+</tr>
+<tr data-lines="481,482">
+<td><code>minecraft:purple_candle</code></td>
+<td>紫色蜡烛</td>
+</tr>
+<tr data-lines="482,483">
+<td><code>minecraft:blue_candle</code></td>
+<td>蓝色蜡烛</td>
+</tr>
+<tr data-lines="483,484">
+<td><code>minecraft:brown_candle</code></td>
+<td>棕色蜡烛</td>
+</tr>
+<tr data-lines="484,485">
+<td><code>minecraft:green_candle</code></td>
+<td>绿色蜡烛</td>
+</tr>
+<tr data-lines="485,486">
+<td><code>minecraft:red_candle</code></td>
+<td>红色蜡烛</td>
+</tr>
+<tr data-lines="486,487">
+<td><code>minecraft:black_candle</code></td>
+<td>黑色蜡烛</td>
+</tr>
+<tr data-lines="487,488">
+<td><code>minecraft:shulker_box</code></td>
+<td>潜影盒</td>
+</tr>
+<tr data-lines="488,489">
+<td><code>minecraft:white_shulker_box</code></td>
+<td>白色潜影盒</td>
+</tr>
+<tr data-lines="489,490">
+<td><code>minecraft:orange_shulker_box</code></td>
+<td>橙色潜影盒</td>
+</tr>
+<tr data-lines="490,491">
+<td><code>minecraft:magenta_shulker_box</code></td>
+<td>品红色潜影盒</td>
+</tr>
+<tr data-lines="491,492">
+<td><code>minecraft:light_blue_shulker_box</code></td>
+<td>淡蓝色潜影盒</td>
+</tr>
+<tr data-lines="492,493">
+<td><code>minecraft:yellow_shulker_box</code></td>
+<td>黄色潜影盒</td>
+</tr>
+<tr data-lines="493,494">
+<td><code>minecraft:lime_shulker_box</code></td>
+<td>黄绿色潜影盒</td>
+</tr>
+<tr data-lines="494,495">
+<td><code>minecraft:pink_shulker_box</code></td>
+<td>粉红色潜影盒</td>
+</tr>
+<tr data-lines="495,496">
+<td><code>minecraft:gray_shulker_box</code></td>
+<td>灰色潜影盒</td>
+</tr>
+<tr data-lines="496,497">
+<td><code>minecraft:light_gray_shulker_box</code></td>
+<td>淡灰色潜影盒</td>
+</tr>
+<tr data-lines="497,498">
+<td><code>minecraft:cyan_shulker_box</code></td>
+<td>青色潜影盒</td>
+</tr>
+<tr data-lines="498,499">
+<td><code>minecraft:purple_shulker_box</code></td>
+<td>紫色潜影盒</td>
+</tr>
+<tr data-lines="499,500">
+<td><code>minecraft:blue_shulker_box</code></td>
+<td>蓝色潜影盒</td>
+</tr>
+<tr data-lines="500,501">
+<td><code>minecraft:brown_shulker_box</code></td>
+<td>棕色潜影盒</td>
+</tr>
+<tr data-lines="501,502">
+<td><code>minecraft:green_shulker_box</code></td>
+<td>绿色潜影盒</td>
+</tr>
+<tr data-lines="502,503">
+<td><code>minecraft:red_shulker_box</code></td>
+<td>红色潜影盒</td>
+</tr>
+<tr data-lines="503,504">
+<td><code>minecraft:black_shulker_box</code></td>
+<td>黑色潜影盒</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.25" class="markmap-node" transform="translate(278, -968.40625)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="184" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="182" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="166" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.1 建筑材料 / 装饰方块</div></div></foreignObject></g><g data-depth="4" data-path="1.24.27.28" class="markmap-node" transform="translate(540, 2414.78125)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="513" y1="1646.59375" y2="1646.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="495" height="1646"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="507,585">
+<thead data-lines="507,508">
+<tr data-lines="507,508">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="509,585">
+<tr data-lines="509,510">
+<td><code>minecraft:redstone</code></td>
+<td>红石粉</td>
+</tr>
+<tr data-lines="510,511">
+<td><code>minecraft:redstone_torch</code></td>
+<td>红石火把</td>
+</tr>
+<tr data-lines="511,512">
+<td><code>minecraft:redstone_block</code></td>
+<td>红石块</td>
+</tr>
+<tr data-lines="512,513">
+<td><code>minecraft:repeater</code></td>
+<td>红石中继器</td>
+</tr>
+<tr data-lines="513,514">
+<td><code>minecraft:comparator</code></td>
+<td>红石比较器</td>
+</tr>
+<tr data-lines="514,515">
+<td><code>minecraft:piston</code></td>
+<td>活塞</td>
+</tr>
+<tr data-lines="515,516">
+<td><code>minecraft:sticky_piston</code></td>
+<td>黏性活塞</td>
+</tr>
+<tr data-lines="516,517">
+<td><code>minecraft:slime_block</code></td>
+<td>黏液块</td>
+</tr>
+<tr data-lines="517,518">
+<td><code>minecraft:honey_block</code></td>
+<td>蜂蜜块</td>
+</tr>
+<tr data-lines="518,519">
+<td><code>minecraft:observer</code></td>
+<td>侦测器</td>
+</tr>
+<tr data-lines="519,520">
+<td><code>minecraft:hopper</code></td>
+<td>漏斗</td>
+</tr>
+<tr data-lines="520,521">
+<td><code>minecraft:dropper</code></td>
+<td>投掷器</td>
+</tr>
+<tr data-lines="521,522">
+<td><code>minecraft:dispenser</code></td>
+<td>发射器</td>
+</tr>
+<tr data-lines="522,523">
+<td><code>minecraft:lectern</code></td>
+<td>讲台</td>
+</tr>
+<tr data-lines="523,524">
+<td><code>minecraft:target</code></td>
+<td>标靶</td>
+</tr>
+<tr data-lines="524,525">
+<td><code>minecraft:lever</code></td>
+<td>拉杆</td>
+</tr>
+<tr data-lines="525,526">
+<td><code>minecraft:tripwire_hook</code></td>
+<td>绊线钩</td>
+</tr>
+<tr data-lines="526,527">
+<td><code>minecraft:string</code></td>
+<td>线</td>
+</tr>
+<tr data-lines="527,528">
+<td><code>minecraft:daylight_detector</code></td>
+<td>阳光探测器</td>
+</tr>
+<tr data-lines="528,529">
+<td><code>minecraft:redstone_lamp</code></td>
+<td>红石灯</td>
+</tr>
+<tr data-lines="529,530">
+<td><code>minecraft:note_block</code></td>
+<td>音符盒</td>
+</tr>
+<tr data-lines="530,531">
+<td><code>minecraft:rail</code></td>
+<td>铁轨</td>
+</tr>
+<tr data-lines="531,532">
+<td><code>minecraft:powered_rail</code></td>
+<td>动力铁轨</td>
+</tr>
+<tr data-lines="532,533">
+<td><code>minecraft:detector_rail</code></td>
+<td>探测铁轨</td>
+</tr>
+<tr data-lines="533,534">
+<td><code>minecraft:activator_rail</code></td>
+<td>激活铁轨</td>
+</tr>
+<tr data-lines="534,535">
+<td><code>minecraft:tnt</code></td>
+<td>TNT</td>
+</tr>
+<tr data-lines="535,536">
+<td><code>minecraft:trapped_chest</code></td>
+<td>陷阱箱</td>
+</tr>
+<tr data-lines="536,537">
+<td><code>minecraft:crafter</code></td>
+<td>合成器 ⭐1.21+</td>
+</tr>
+<tr data-lines="537,538">
+<td><code>minecraft:jukebox</code></td>
+<td>唱片机</td>
+</tr>
+<tr data-lines="538,539">
+<td><code>minecraft:command_block</code></td>
+<td>命令方块</td>
+</tr>
+<tr data-lines="539,540">
+<td><code>minecraft:chain_command_block</code></td>
+<td>连锁命令方块</td>
+</tr>
+<tr data-lines="540,541">
+<td><code>minecraft:repeating_command_block</code></td>
+<td>循环命令方块</td>
+</tr>
+<tr data-lines="541,542">
+<td><code>minecraft:structure_block</code></td>
+<td>结构方块</td>
+</tr>
+<tr data-lines="542,543">
+<td><code>minecraft:structure_void</code></td>
+<td>结构空位</td>
+</tr>
+<tr data-lines="543,544">
+<td><code>minecraft:barrier</code></td>
+<td>屏障</td>
+</tr>
+<tr data-lines="544,545">
+<td><code>minecraft:light</code></td>
+<td>光源方块</td>
+</tr>
+<tr data-lines="545,546">
+<td><code>minecraft:trial_spawner</code></td>
+<td>试炼刷怪笼 ⭐1.21+</td>
+</tr>
+<tr data-lines="546,547">
+<td><code>minecraft:ominous_trial_spawner</code></td>
+<td>不祥试炼刷怪笼 ⭐1.21+</td>
+</tr>
+<tr data-lines="547,548">
+<td><code>minecraft:vault</code></td>
+<td>宝库 ⭐1.21+</td>
+</tr>
+<tr data-lines="548,549">
+<td><code>minecraft:ominous_vault</code></td>
+<td>不祥宝库 ⭐1.21+</td>
+</tr>
+<tr data-lines="549,550">
+<td><code>minecraft:stone_button</code></td>
+<td>石头按钮</td>
+</tr>
+<tr data-lines="550,551">
+<td><code>minecraft:polished_blackstone_button</code></td>
+<td>磨制黑石按钮</td>
+</tr>
+<tr data-lines="551,552">
+<td><code>minecraft:oak_button</code></td>
+<td>橡木按钮</td>
+</tr>
+<tr data-lines="552,553">
+<td><code>minecraft:spruce_button</code></td>
+<td>云杉木按钮</td>
+</tr>
+<tr data-lines="553,554">
+<td><code>minecraft:birch_button</code></td>
+<td>白桦木按钮</td>
+</tr>
+<tr data-lines="554,555">
+<td><code>minecraft:jungle_button</code></td>
+<td>丛林木按钮</td>
+</tr>
+<tr data-lines="555,556">
+<td><code>minecraft:acacia_button</code></td>
+<td>金合欢木按钮</td>
+</tr>
+<tr data-lines="556,557">
+<td><code>minecraft:dark_oak_button</code></td>
+<td>深色橡木按钮</td>
+</tr>
+<tr data-lines="557,558">
+<td><code>minecraft:mangrove_button</code></td>
+<td>红树木按钮</td>
+</tr>
+<tr data-lines="558,559">
+<td><code>minecraft:cherry_button</code></td>
+<td>樱花木按钮</td>
+</tr>
+<tr data-lines="559,560">
+<td><code>minecraft:bamboo_button</code></td>
+<td>竹按钮</td>
+</tr>
+<tr data-lines="560,561">
+<td><code>minecraft:pale_oak_button</code></td>
+<td>苍白橡木按钮 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="561,562">
+<td><code>minecraft:crimson_button</code></td>
+<td>绯红木按钮</td>
+</tr>
+<tr data-lines="562,563">
+<td><code>minecraft:warped_button</code></td>
+<td>诡异木按钮</td>
+</tr>
+<tr data-lines="563,564">
+<td><code>minecraft:stone_pressure_plate</code></td>
+<td>石头压力板</td>
+</tr>
+<tr data-lines="564,565">
+<td><code>minecraft:polished_blackstone_pressure_plate</code></td>
+<td>磨制黑石压力板</td>
+</tr>
+<tr data-lines="565,566">
+<td><code>minecraft:oak_pressure_plate</code></td>
+<td>橡木压力板</td>
+</tr>
+<tr data-lines="566,567">
+<td><code>minecraft:spruce_pressure_plate</code></td>
+<td>云杉木压力板</td>
+</tr>
+<tr data-lines="567,568">
+<td><code>minecraft:birch_pressure_plate</code></td>
+<td>白桦木压力板</td>
+</tr>
+<tr data-lines="568,569">
+<td><code>minecraft:jungle_pressure_plate</code></td>
+<td>丛林木压力板</td>
+</tr>
+<tr data-lines="569,570">
+<td><code>minecraft:acacia_pressure_plate</code></td>
+<td>金合欢木压力板</td>
+</tr>
+<tr data-lines="570,571">
+<td><code>minecraft:dark_oak_pressure_plate</code></td>
+<td>深色橡木压力板</td>
+</tr>
+<tr data-lines="571,572">
+<td><code>minecraft:mangrove_pressure_plate</code></td>
+<td>红树木压力板</td>
+</tr>
+<tr data-lines="572,573">
+<td><code>minecraft:cherry_pressure_plate</code></td>
+<td>樱花木压力板</td>
+</tr>
+<tr data-lines="573,574">
+<td><code>minecraft:bamboo_pressure_plate</code></td>
+<td>竹压力板</td>
+</tr>
+<tr data-lines="574,575">
+<td><code>minecraft:pale_oak_pressure_plate</code></td>
+<td>苍白橡木压力板 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="575,576">
+<td><code>minecraft:crimson_pressure_plate</code></td>
+<td>绯红木压力板</td>
+</tr>
+<tr data-lines="576,577">
+<td><code>minecraft:warped_pressure_plate</code></td>
+<td>诡异木压力板</td>
+</tr>
+<tr data-lines="577,578">
+<td><code>minecraft:light_weighted_pressure_plate</code></td>
+<td>轻质测重压力板</td>
+</tr>
+<tr data-lines="578,579">
+<td><code>minecraft:heavy_weighted_pressure_plate</code></td>
+<td>重质测重压力板</td>
+</tr>
+<tr data-lines="579,580">
+<td><code>minecraft:sculk_sensor</code></td>
+<td>幽匿感测体</td>
+</tr>
+<tr data-lines="580,581">
+<td><code>minecraft:calibrated_sculk_sensor</code></td>
+<td>校频幽匿感测体</td>
+</tr>
+<tr data-lines="581,582">
+<td><code>minecraft:sculk_shrieker</code></td>
+<td>幽匿尖啸体</td>
+</tr>
+<tr data-lines="582,583">
+<td><code>minecraft:sculk_catalyst</code></td>
+<td>幽匿催发体</td>
+</tr>
+<tr data-lines="583,584">
+<td><code>minecraft:sculk</code></td>
+<td>幽匿块</td>
+</tr>
+<tr data-lines="584,585">
+<td><code>minecraft:sculk_vein</code></td>
+<td>幽匿脉络</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.27" class="markmap-node" transform="translate(278, 3227.28125)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="184" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="182" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="166" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.2 红石元件 / 机械方块</div></div></foreignObject></g><g data-depth="4" data-path="1.24.29.30" class="markmap-node" transform="translate(527, 4071.96875)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="378" y1="1774.59375" y2="1774.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="360" height="1774"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="588,672">
+<thead data-lines="588,589">
+<tr data-lines="588,589">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="590,672">
+<tr data-lines="590,591">
+<td><code>minecraft:wooden_pickaxe</code></td>
+<td>木镐</td>
+</tr>
+<tr data-lines="591,592">
+<td><code>minecraft:wooden_axe</code></td>
+<td>木斧</td>
+</tr>
+<tr data-lines="592,593">
+<td><code>minecraft:wooden_shovel</code></td>
+<td>木锹</td>
+</tr>
+<tr data-lines="593,594">
+<td><code>minecraft:wooden_hoe</code></td>
+<td>木锄</td>
+</tr>
+<tr data-lines="594,595">
+<td><code>minecraft:stone_pickaxe</code></td>
+<td>石镐</td>
+</tr>
+<tr data-lines="595,596">
+<td><code>minecraft:stone_axe</code></td>
+<td>石斧</td>
+</tr>
+<tr data-lines="596,597">
+<td><code>minecraft:stone_shovel</code></td>
+<td>石锹</td>
+</tr>
+<tr data-lines="597,598">
+<td><code>minecraft:stone_hoe</code></td>
+<td>石锄</td>
+</tr>
+<tr data-lines="598,599">
+<td><code>minecraft:iron_pickaxe</code></td>
+<td>铁镐</td>
+</tr>
+<tr data-lines="599,600">
+<td><code>minecraft:iron_axe</code></td>
+<td>铁斧</td>
+</tr>
+<tr data-lines="600,601">
+<td><code>minecraft:iron_shovel</code></td>
+<td>铁锹</td>
+</tr>
+<tr data-lines="601,602">
+<td><code>minecraft:iron_hoe</code></td>
+<td>铁锄</td>
+</tr>
+<tr data-lines="602,603">
+<td><code>minecraft:golden_pickaxe</code></td>
+<td>金镐</td>
+</tr>
+<tr data-lines="603,604">
+<td><code>minecraft:golden_axe</code></td>
+<td>金斧</td>
+</tr>
+<tr data-lines="604,605">
+<td><code>minecraft:golden_shovel</code></td>
+<td>金锹</td>
+</tr>
+<tr data-lines="605,606">
+<td><code>minecraft:golden_hoe</code></td>
+<td>金锄</td>
+</tr>
+<tr data-lines="606,607">
+<td><code>minecraft:diamond_pickaxe</code></td>
+<td>钻石镐</td>
+</tr>
+<tr data-lines="607,608">
+<td><code>minecraft:diamond_axe</code></td>
+<td>钻石斧</td>
+</tr>
+<tr data-lines="608,609">
+<td><code>minecraft:diamond_shovel</code></td>
+<td>钻石锹</td>
+</tr>
+<tr data-lines="609,610">
+<td><code>minecraft:diamond_hoe</code></td>
+<td>钻石锄</td>
+</tr>
+<tr data-lines="610,611">
+<td><code>minecraft:netherite_pickaxe</code></td>
+<td>下界合金镐</td>
+</tr>
+<tr data-lines="611,612">
+<td><code>minecraft:netherite_axe</code></td>
+<td>下界合金斧</td>
+</tr>
+<tr data-lines="612,613">
+<td><code>minecraft:netherite_shovel</code></td>
+<td>下界合金锹</td>
+</tr>
+<tr data-lines="613,614">
+<td><code>minecraft:netherite_hoe</code></td>
+<td>下界合金锄</td>
+</tr>
+<tr data-lines="614,615">
+<td><code>minecraft:shears</code></td>
+<td>剪刀</td>
+</tr>
+<tr data-lines="615,616">
+<td><code>minecraft:flint_and_steel</code></td>
+<td>打火石</td>
+</tr>
+<tr data-lines="616,617">
+<td><code>minecraft:fishing_rod</code></td>
+<td>钓鱼竿</td>
+</tr>
+<tr data-lines="617,618">
+<td><code>minecraft:carrot_on_a_stick</code></td>
+<td>胡萝卜钓竿</td>
+</tr>
+<tr data-lines="618,619">
+<td><code>minecraft:warped_fungus_on_a_stick</code></td>
+<td>诡异菌钓竿</td>
+</tr>
+<tr data-lines="619,620">
+<td><code>minecraft:brush</code></td>
+<td>刷子</td>
+</tr>
+<tr data-lines="620,621">
+<td><code>minecraft:bundle</code></td>
+<td>收纳袋 ⭐1.21+</td>
+</tr>
+<tr data-lines="621,622">
+<td><code>minecraft:wooden_sword</code></td>
+<td>木剑</td>
+</tr>
+<tr data-lines="622,623">
+<td><code>minecraft:stone_sword</code></td>
+<td>石剑</td>
+</tr>
+<tr data-lines="623,624">
+<td><code>minecraft:iron_sword</code></td>
+<td>铁剑</td>
+</tr>
+<tr data-lines="624,625">
+<td><code>minecraft:golden_sword</code></td>
+<td>金剑</td>
+</tr>
+<tr data-lines="625,626">
+<td><code>minecraft:diamond_sword</code></td>
+<td>钻石剑</td>
+</tr>
+<tr data-lines="626,627">
+<td><code>minecraft:netherite_sword</code></td>
+<td>下界合金剑</td>
+</tr>
+<tr data-lines="627,628">
+<td><code>minecraft:bow</code></td>
+<td>弓</td>
+</tr>
+<tr data-lines="628,629">
+<td><code>minecraft:crossbow</code></td>
+<td>弩</td>
+</tr>
+<tr data-lines="629,630">
+<td><code>minecraft:trident</code></td>
+<td>三叉戟</td>
+</tr>
+<tr data-lines="630,631">
+<td><code>minecraft:mace</code></td>
+<td>重锤 ⭐1.21+</td>
+</tr>
+<tr data-lines="631,632">
+<td><code>minecraft:arrow</code></td>
+<td>箭</td>
+</tr>
+<tr data-lines="632,633">
+<td><code>minecraft:spectral_arrow</code></td>
+<td>光灵箭</td>
+</tr>
+<tr data-lines="633,634">
+<td><code>minecraft:tipped_arrow</code></td>
+<td>药箭</td>
+</tr>
+<tr data-lines="634,635">
+<td><code>minecraft:snowball</code></td>
+<td>雪球</td>
+</tr>
+<tr data-lines="635,636">
+<td><code>minecraft:egg</code></td>
+<td>鸡蛋</td>
+</tr>
+<tr data-lines="636,637">
+<td><code>minecraft:wind_charge</code></td>
+<td>风弹 ⭐1.21+</td>
+</tr>
+<tr data-lines="637,638">
+<td><code>minecraft:leather_helmet</code></td>
+<td>皮革帽子</td>
+</tr>
+<tr data-lines="638,639">
+<td><code>minecraft:leather_chestplate</code></td>
+<td>皮革外套</td>
+</tr>
+<tr data-lines="639,640">
+<td><code>minecraft:leather_leggings</code></td>
+<td>皮革裤子</td>
+</tr>
+<tr data-lines="640,641">
+<td><code>minecraft:leather_boots</code></td>
+<td>皮革靴子</td>
+</tr>
+<tr data-lines="641,642">
+<td><code>minecraft:chainmail_helmet</code></td>
+<td>锁链头盔</td>
+</tr>
+<tr data-lines="642,643">
+<td><code>minecraft:chainmail_chestplate</code></td>
+<td>锁链胸甲</td>
+</tr>
+<tr data-lines="643,644">
+<td><code>minecraft:chainmail_leggings</code></td>
+<td>锁链护腿</td>
+</tr>
+<tr data-lines="644,645">
+<td><code>minecraft:chainmail_boots</code></td>
+<td>锁链靴子</td>
+</tr>
+<tr data-lines="645,646">
+<td><code>minecraft:iron_helmet</code></td>
+<td>铁头盔</td>
+</tr>
+<tr data-lines="646,647">
+<td><code>minecraft:iron_chestplate</code></td>
+<td>铁胸甲</td>
+</tr>
+<tr data-lines="647,648">
+<td><code>minecraft:iron_leggings</code></td>
+<td>铁护腿</td>
+</tr>
+<tr data-lines="648,649">
+<td><code>minecraft:iron_boots</code></td>
+<td>铁靴子</td>
+</tr>
+<tr data-lines="649,650">
+<td><code>minecraft:golden_helmet</code></td>
+<td>金头盔</td>
+</tr>
+<tr data-lines="650,651">
+<td><code>minecraft:golden_chestplate</code></td>
+<td>金胸甲</td>
+</tr>
+<tr data-lines="651,652">
+<td><code>minecraft:golden_leggings</code></td>
+<td>金护腿</td>
+</tr>
+<tr data-lines="652,653">
+<td><code>minecraft:golden_boots</code></td>
+<td>金靴子</td>
+</tr>
+<tr data-lines="653,654">
+<td><code>minecraft:diamond_helmet</code></td>
+<td>钻石头盔</td>
+</tr>
+<tr data-lines="654,655">
+<td><code>minecraft:diamond_chestplate</code></td>
+<td>钻石胸甲</td>
+</tr>
+<tr data-lines="655,656">
+<td><code>minecraft:diamond_leggings</code></td>
+<td>钻石护腿</td>
+</tr>
+<tr data-lines="656,657">
+<td><code>minecraft:diamond_boots</code></td>
+<td>钻石靴子</td>
+</tr>
+<tr data-lines="657,658">
+<td><code>minecraft:netherite_helmet</code></td>
+<td>下界合金头盔</td>
+</tr>
+<tr data-lines="658,659">
+<td><code>minecraft:netherite_chestplate</code></td>
+<td>下界合金胸甲</td>
+</tr>
+<tr data-lines="659,660">
+<td><code>minecraft:netherite_leggings</code></td>
+<td>下界合金护腿</td>
+</tr>
+<tr data-lines="660,661">
+<td><code>minecraft:netherite_boots</code></td>
+<td>下界合金靴子</td>
+</tr>
+<tr data-lines="661,662">
+<td><code>minecraft:turtle_helmet</code></td>
+<td>海龟壳</td>
+</tr>
+<tr data-lines="662,663">
+<td><code>minecraft:wolf_armor</code></td>
+<td>狼铠</td>
+</tr>
+<tr data-lines="663,664">
+<td><code>minecraft:leather_horse_armor</code></td>
+<td>皮革马铠</td>
+</tr>
+<tr data-lines="664,665">
+<td><code>minecraft:iron_horse_armor</code></td>
+<td>铁马铠</td>
+</tr>
+<tr data-lines="665,666">
+<td><code>minecraft:golden_horse_armor</code></td>
+<td>金马铠</td>
+</tr>
+<tr data-lines="666,667">
+<td><code>minecraft:diamond_horse_armor</code></td>
+<td>钻石马铠</td>
+</tr>
+<tr data-lines="667,668">
+<td><code>minecraft:elytra</code></td>
+<td>鞘翅</td>
+</tr>
+<tr data-lines="668,669">
+<td><code>minecraft:shield</code></td>
+<td>盾牌</td>
+</tr>
+<tr data-lines="669,670">
+<td><code>minecraft:totem_of_undying</code></td>
+<td>不死图腾</td>
+</tr>
+<tr data-lines="670,671">
+<td><code>minecraft:enchanted_golden_apple</code></td>
+<td>附魔金苹果</td>
+</tr>
+<tr data-lines="671,672">
+<td><code>minecraft:golden_apple</code></td>
+<td>金苹果</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.29" class="markmap-node" transform="translate(278, 4948.46875)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="171" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="169" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="153" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.3 工具、武器与装备</div></div></foreignObject></g><g data-depth="4" data-path="1.24.31.32" class="markmap-node" transform="translate(479, 5857.15625)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="394" y1="1454.59375" y2="1454.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="376" height="1454"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="675,744">
+<thead data-lines="675,676">
+<tr data-lines="675,676">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="677,744">
+<tr data-lines="677,678">
+<td><code>minecraft:apple</code></td>
+<td>苹果</td>
+</tr>
+<tr data-lines="678,679">
+<td><code>minecraft:golden_apple</code></td>
+<td>金苹果</td>
+</tr>
+<tr data-lines="679,680">
+<td><code>minecraft:enchanted_golden_apple</code></td>
+<td>附魔金苹果</td>
+</tr>
+<tr data-lines="680,681">
+<td><code>minecraft:melon_slice</code></td>
+<td>西瓜片</td>
+</tr>
+<tr data-lines="681,682">
+<td><code>minecraft:sweet_berries</code></td>
+<td>甜浆果</td>
+</tr>
+<tr data-lines="682,683">
+<td><code>minecraft:glow_berries</code></td>
+<td>发光浆果</td>
+</tr>
+<tr data-lines="683,684">
+<td><code>minecraft:chorus_fruit</code></td>
+<td>紫颂果</td>
+</tr>
+<tr data-lines="684,685">
+<td><code>minecraft:popped_chorus_fruit</code></td>
+<td>爆裂紫颂果</td>
+</tr>
+<tr data-lines="685,686">
+<td><code>minecraft:carrot</code></td>
+<td>胡萝卜</td>
+</tr>
+<tr data-lines="686,687">
+<td><code>minecraft:golden_carrot</code></td>
+<td>金胡萝卜</td>
+</tr>
+<tr data-lines="687,688">
+<td><code>minecraft:potato</code></td>
+<td>马铃薯</td>
+</tr>
+<tr data-lines="688,689">
+<td><code>minecraft:baked_potato</code></td>
+<td>烤马铃薯</td>
+</tr>
+<tr data-lines="689,690">
+<td><code>minecraft:poisonous_potato</code></td>
+<td>毒马铃薯</td>
+</tr>
+<tr data-lines="690,691">
+<td><code>minecraft:beetroot</code></td>
+<td>甜菜根</td>
+</tr>
+<tr data-lines="691,692">
+<td><code>minecraft:beetroot_soup</code></td>
+<td>甜菜汤</td>
+</tr>
+<tr data-lines="692,693">
+<td><code>minecraft:dried_kelp</code></td>
+<td>干海带</td>
+</tr>
+<tr data-lines="693,694">
+<td><code>minecraft:bread</code></td>
+<td>面包</td>
+</tr>
+<tr data-lines="694,695">
+<td><code>minecraft:cookie</code></td>
+<td>曲奇</td>
+</tr>
+<tr data-lines="695,696">
+<td><code>minecraft:pumpkin_pie</code></td>
+<td>南瓜派</td>
+</tr>
+<tr data-lines="696,697">
+<td><code>minecraft:mushroom_stew</code></td>
+<td>蘑菇煲</td>
+</tr>
+<tr data-lines="697,698">
+<td><code>minecraft:rabbit_stew</code></td>
+<td>兔肉煲</td>
+</tr>
+<tr data-lines="698,699">
+<td><code>minecraft:suspicious_stew</code></td>
+<td>谜之炖菜</td>
+</tr>
+<tr data-lines="699,700">
+<td><code>minecraft:honey_bottle</code></td>
+<td>蜂蜜瓶</td>
+</tr>
+<tr data-lines="700,701">
+<td><code>minecraft:ominous_bottle</code></td>
+<td>不祥之瓶 ⭐1.21+</td>
+</tr>
+<tr data-lines="701,702">
+<td><code>minecraft:beef</code></td>
+<td>生牛肉</td>
+</tr>
+<tr data-lines="702,703">
+<td><code>minecraft:cooked_beef</code></td>
+<td>牛排</td>
+</tr>
+<tr data-lines="703,704">
+<td><code>minecraft:porkchop</code></td>
+<td>生猪排</td>
+</tr>
+<tr data-lines="704,705">
+<td><code>minecraft:cooked_porkchop</code></td>
+<td>熟猪排</td>
+</tr>
+<tr data-lines="705,706">
+<td><code>minecraft:mutton</code></td>
+<td>生羊肉</td>
+</tr>
+<tr data-lines="706,707">
+<td><code>minecraft:cooked_mutton</code></td>
+<td>熟羊肉</td>
+</tr>
+<tr data-lines="707,708">
+<td><code>minecraft:chicken</code></td>
+<td>生鸡肉</td>
+</tr>
+<tr data-lines="708,709">
+<td><code>minecraft:cooked_chicken</code></td>
+<td>熟鸡肉</td>
+</tr>
+<tr data-lines="709,710">
+<td><code>minecraft:rabbit</code></td>
+<td>生兔肉</td>
+</tr>
+<tr data-lines="710,711">
+<td><code>minecraft:cooked_rabbit</code></td>
+<td>熟兔肉</td>
+</tr>
+<tr data-lines="711,712">
+<td><code>minecraft:cod</code></td>
+<td>生鳕鱼</td>
+</tr>
+<tr data-lines="712,713">
+<td><code>minecraft:cooked_cod</code></td>
+<td>熟鳕鱼</td>
+</tr>
+<tr data-lines="713,714">
+<td><code>minecraft:salmon</code></td>
+<td>生鲑鱼</td>
+</tr>
+<tr data-lines="714,715">
+<td><code>minecraft:cooked_salmon</code></td>
+<td>熟鲑鱼</td>
+</tr>
+<tr data-lines="715,716">
+<td><code>minecraft:tropical_fish</code></td>
+<td>热带鱼</td>
+</tr>
+<tr data-lines="716,717">
+<td><code>minecraft:pufferfish</code></td>
+<td>河豚</td>
+</tr>
+<tr data-lines="717,718">
+<td><code>minecraft:rotten_flesh</code></td>
+<td>腐肉</td>
+</tr>
+<tr data-lines="718,719">
+<td><code>minecraft:spider_eye</code></td>
+<td>蜘蛛眼</td>
+</tr>
+<tr data-lines="719,720">
+<td><code>minecraft:wheat</code></td>
+<td>小麦</td>
+</tr>
+<tr data-lines="720,721">
+<td><code>minecraft:wheat_seeds</code></td>
+<td>小麦种子</td>
+</tr>
+<tr data-lines="721,722">
+<td><code>minecraft:pumpkin_seeds</code></td>
+<td>南瓜种子</td>
+</tr>
+<tr data-lines="722,723">
+<td><code>minecraft:melon_seeds</code></td>
+<td>西瓜种子</td>
+</tr>
+<tr data-lines="723,724">
+<td><code>minecraft:beetroot_seeds</code></td>
+<td>甜菜种子</td>
+</tr>
+<tr data-lines="724,725">
+<td><code>minecraft:torchflower_seeds</code></td>
+<td>火把花种子</td>
+</tr>
+<tr data-lines="725,726">
+<td><code>minecraft:pitcher_pod</code></td>
+<td>瓶子草荚果</td>
+</tr>
+<tr data-lines="726,727">
+<td><code>minecraft:cocoa_beans</code></td>
+<td>可可豆</td>
+</tr>
+<tr data-lines="727,728">
+<td><code>minecraft:sugar_cane</code></td>
+<td>甘蔗</td>
+</tr>
+<tr data-lines="728,729">
+<td><code>minecraft:egg</code></td>
+<td>鸡蛋</td>
+</tr>
+<tr data-lines="729,730">
+<td><code>minecraft:blue_egg</code></td>
+<td>蓝色鸡蛋 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="730,731">
+<td><code>minecraft:brown_egg</code></td>
+<td>棕色鸡蛋 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="731,732">
+<td><code>minecraft:brown_mushroom</code></td>
+<td>棕色蘑菇</td>
+</tr>
+<tr data-lines="732,733">
+<td><code>minecraft:red_mushroom</code></td>
+<td>红色蘑菇</td>
+</tr>
+<tr data-lines="733,734">
+<td><code>minecraft:crimson_fungus</code></td>
+<td>绯红菌</td>
+</tr>
+<tr data-lines="734,735">
+<td><code>minecraft:warped_fungus</code></td>
+<td>诡异菌</td>
+</tr>
+<tr data-lines="735,736">
+<td><code>minecraft:nether_wart</code></td>
+<td>下界疣</td>
+</tr>
+<tr data-lines="736,737">
+<td><code>minecraft:kelp</code></td>
+<td>海带</td>
+</tr>
+<tr data-lines="737,738">
+<td><code>minecraft:bamboo</code></td>
+<td>竹子</td>
+</tr>
+<tr data-lines="738,739">
+<td><code>minecraft:cactus</code></td>
+<td>仙人掌</td>
+</tr>
+<tr data-lines="739,740">
+<td><code>minecraft:vine</code></td>
+<td>藤蔓</td>
+</tr>
+<tr data-lines="740,741">
+<td><code>minecraft:lily_pad</code></td>
+<td>睡莲</td>
+</tr>
+<tr data-lines="741,742">
+<td><code>minecraft:cake</code></td>
+<td>蛋糕</td>
+</tr>
+<tr data-lines="742,743">
+<td><code>minecraft:milk_bucket</code></td>
+<td>奶桶</td>
+</tr>
+<tr data-lines="743,744">
+<td><code>minecraft:sugar</code></td>
+<td>糖</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.31" class="markmap-node" transform="translate(278, 6573.65625)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="123" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="121" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="105" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.4 食物与农业</div></div></foreignObject></g><g data-depth="4" data-path="1.24.33.34" class="markmap-node" transform="translate(508, 7322.34375)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="456" y1="2371.59375" y2="2371.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="438" height="2371"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="747,859">
+<thead data-lines="747,748">
+<tr data-lines="747,748">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="749,859">
+<tr data-lines="749,750">
+<td><code>minecraft:grass</code></td>
+<td>草</td>
+</tr>
+<tr data-lines="750,751">
+<td><code>minecraft:tall_grass</code></td>
+<td>高草丛</td>
+</tr>
+<tr data-lines="751,752">
+<td><code>minecraft:short_grass</code></td>
+<td>矮草丛</td>
+</tr>
+<tr data-lines="752,753">
+<td><code>minecraft:fern</code></td>
+<td>蕨</td>
+</tr>
+<tr data-lines="753,754">
+<td><code>minecraft:large_fern</code></td>
+<td>大型蕨</td>
+</tr>
+<tr data-lines="754,755">
+<td><code>minecraft:dead_bush</code></td>
+<td>枯萎的灌木</td>
+</tr>
+<tr data-lines="755,756">
+<td><code>minecraft:short_dry_grass</code></td>
+<td>矮枯草丛 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="756,757">
+<td><code>minecraft:tall_dry_grass</code></td>
+<td>高枯草丛 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="757,758">
+<td><code>minecraft:dandelion</code></td>
+<td>蒲公英</td>
+</tr>
+<tr data-lines="758,759">
+<td><code>minecraft:poppy</code></td>
+<td>虞美人</td>
+</tr>
+<tr data-lines="759,760">
+<td><code>minecraft:blue_orchid</code></td>
+<td>兰花</td>
+</tr>
+<tr data-lines="760,761">
+<td><code>minecraft:allium</code></td>
+<td>绒球葱</td>
+</tr>
+<tr data-lines="761,762">
+<td><code>minecraft:azure_bluet</code></td>
+<td>蓝花美耳草</td>
+</tr>
+<tr data-lines="762,763">
+<td><code>minecraft:red_tulip</code></td>
+<td>红色郁金香</td>
+</tr>
+<tr data-lines="763,764">
+<td><code>minecraft:orange_tulip</code></td>
+<td>橙色郁金香</td>
+</tr>
+<tr data-lines="764,765">
+<td><code>minecraft:white_tulip</code></td>
+<td>白色郁金香</td>
+</tr>
+<tr data-lines="765,766">
+<td><code>minecraft:pink_tulip</code></td>
+<td>粉红色郁金香</td>
+</tr>
+<tr data-lines="766,767">
+<td><code>minecraft:oxeye_daisy</code></td>
+<td>滨菊</td>
+</tr>
+<tr data-lines="767,768">
+<td><code>minecraft:cornflower</code></td>
+<td>矢车菊</td>
+</tr>
+<tr data-lines="768,769">
+<td><code>minecraft:lily_of_the_valley</code></td>
+<td>铃兰</td>
+</tr>
+<tr data-lines="769,770">
+<td><code>minecraft:sunflower</code></td>
+<td>向日葵</td>
+</tr>
+<tr data-lines="770,771">
+<td><code>minecraft:lilac</code></td>
+<td>丁香</td>
+</tr>
+<tr data-lines="771,772">
+<td><code>minecraft:rose_bush</code></td>
+<td>玫瑰丛</td>
+</tr>
+<tr data-lines="772,773">
+<td><code>minecraft:peony</code></td>
+<td>牡丹</td>
+</tr>
+<tr data-lines="773,774">
+<td><code>minecraft:pitcher_plant</code></td>
+<td>瓶子草</td>
+</tr>
+<tr data-lines="774,775">
+<td><code>minecraft:torchflower</code></td>
+<td>火把花</td>
+</tr>
+<tr data-lines="775,776">
+<td><code>minecraft:open_eyeblossom</code></td>
+<td>睁眼 Eyeblossom ⭐1.21.4+</td>
+</tr>
+<tr data-lines="776,777">
+<td><code>minecraft:closed_eyeblossom</code></td>
+<td>闭眼 Eyeblossom ⭐1.21.4+</td>
+</tr>
+<tr data-lines="777,778">
+<td><code>minecraft:cactus_flower</code></td>
+<td>仙人掌花 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="778,779">
+<td><code>minecraft:wildflowers</code></td>
+<td>野花 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="779,780">
+<td><code>minecraft:leaf_litter</code></td>
+<td>落叶 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="780,781">
+<td><code>minecraft:firefly_bush</code></td>
+<td>萤火虫灌木丛 ⭐1.21.5+</td>
+</tr>
+<tr data-lines="781,782">
+<td><code>minecraft:pale_moss_block</code></td>
+<td>苍白苔藓块 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="782,783">
+<td><code>minecraft:pale_moss_carpet</code></td>
+<td>苍白覆地苔藓 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="783,784">
+<td><code>minecraft:pale_hanging_moss</code></td>
+<td>苍白垂须 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="784,785">
+<td><code>minecraft:oak_sapling</code></td>
+<td>橡树树苗</td>
+</tr>
+<tr data-lines="785,786">
+<td><code>minecraft:spruce_sapling</code></td>
+<td>云杉树苗</td>
+</tr>
+<tr data-lines="786,787">
+<td><code>minecraft:birch_sapling</code></td>
+<td>白桦树苗</td>
+</tr>
+<tr data-lines="787,788">
+<td><code>minecraft:jungle_sapling</code></td>
+<td>丛林树苗</td>
+</tr>
+<tr data-lines="788,789">
+<td><code>minecraft:acacia_sapling</code></td>
+<td>金合欢树苗</td>
+</tr>
+<tr data-lines="789,790">
+<td><code>minecraft:dark_oak_sapling</code></td>
+<td>深色橡树树苗</td>
+</tr>
+<tr data-lines="790,791">
+<td><code>minecraft:mangrove_propagule</code></td>
+<td>红树胎生苗</td>
+</tr>
+<tr data-lines="791,792">
+<td><code>minecraft:cherry_sapling</code></td>
+<td>樱花树苗</td>
+</tr>
+<tr data-lines="792,793">
+<td><code>minecraft:pale_oak_sapling</code></td>
+<td>苍白橡树树苗 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="793,794">
+<td><code>minecraft:azalea</code></td>
+<td>杜鹃花丛</td>
+</tr>
+<tr data-lines="794,795">
+<td><code>minecraft:flowering_azalea</code></td>
+<td>盛开的杜鹃花丛</td>
+</tr>
+<tr data-lines="795,796">
+<td><code>minecraft:moss_block</code></td>
+<td>苔藓块</td>
+</tr>
+<tr data-lines="796,797">
+<td><code>minecraft:moss_carpet</code></td>
+<td>覆地苔藓</td>
+</tr>
+<tr data-lines="797,798">
+<td><code>minecraft:hanging_roots</code></td>
+<td>垂根</td>
+</tr>
+<tr data-lines="798,799">
+<td><code>minecraft:big_dripleaf</code></td>
+<td>大型垂滴叶</td>
+</tr>
+<tr data-lines="799,800">
+<td><code>minecraft:small_dripleaf</code></td>
+<td>小型垂滴叶</td>
+</tr>
+<tr data-lines="800,801">
+<td><code>minecraft:spore_blossom</code></td>
+<td>孢子花</td>
+</tr>
+<tr data-lines="801,802">
+<td><code>minecraft:cave_vines</code></td>
+<td>洞穴藤蔓</td>
+</tr>
+<tr data-lines="802,803">
+<td><code>minecraft:glow_lichen</code></td>
+<td>发光地衣</td>
+</tr>
+<tr data-lines="803,804">
+<td><code>minecraft:seagrass</code></td>
+<td>海草</td>
+</tr>
+<tr data-lines="804,805">
+<td><code>minecraft:sea_pickle</code></td>
+<td>海泡菜</td>
+</tr>
+<tr data-lines="805,806">
+<td><code>minecraft:dried_kelp_block</code></td>
+<td>干海带块</td>
+</tr>
+<tr data-lines="806,807">
+<td><code>minecraft:pumpkin</code></td>
+<td>南瓜</td>
+</tr>
+<tr data-lines="807,808">
+<td><code>minecraft:carved_pumpkin</code></td>
+<td>雕刻过的南瓜</td>
+</tr>
+<tr data-lines="808,809">
+<td><code>minecraft:jack_o_lantern</code></td>
+<td>南瓜灯</td>
+</tr>
+<tr data-lines="809,810">
+<td><code>minecraft:melon</code></td>
+<td>西瓜</td>
+</tr>
+<tr data-lines="810,811">
+<td><code>minecraft:hay_block</code></td>
+<td>干草捆</td>
+</tr>
+<tr data-lines="811,812">
+<td><code>minecraft:brown_mushroom_block</code></td>
+<td>棕色蘑菇方块</td>
+</tr>
+<tr data-lines="812,813">
+<td><code>minecraft:red_mushroom_block</code></td>
+<td>红色蘑菇方块</td>
+</tr>
+<tr data-lines="813,814">
+<td><code>minecraft:mushroom_stem</code></td>
+<td>蘑菇柄</td>
+</tr>
+<tr data-lines="814,815">
+<td><code>minecraft:nether_wart_block</code></td>
+<td>下界疣块</td>
+</tr>
+<tr data-lines="815,816">
+<td><code>minecraft:warped_wart_block</code></td>
+<td>诡异疣块</td>
+</tr>
+<tr data-lines="816,817">
+<td><code>minecraft:shroomlight</code></td>
+<td>菌光体</td>
+</tr>
+<tr data-lines="817,818">
+<td><code>minecraft:crimson_roots</code></td>
+<td>绯红菌索</td>
+</tr>
+<tr data-lines="818,819">
+<td><code>minecraft:warped_roots</code></td>
+<td>诡异菌索</td>
+</tr>
+<tr data-lines="819,820">
+<td><code>minecraft:nether_sprouts</code></td>
+<td>下界苗</td>
+</tr>
+<tr data-lines="820,821">
+<td><code>minecraft:weeping_vines</code></td>
+<td>垂泪藤</td>
+</tr>
+<tr data-lines="821,822">
+<td><code>minecraft:twisting_vines</code></td>
+<td>缠怨藤</td>
+</tr>
+<tr data-lines="822,823">
+<td><code>minecraft:cocoa</code></td>
+<td>可可果</td>
+</tr>
+<tr data-lines="823,824">
+<td><code>minecraft:sweet_berry_bush</code></td>
+<td>甜浆果丛</td>
+</tr>
+<tr data-lines="824,825">
+<td><code>minecraft:chorus_plant</code></td>
+<td>紫颂植株</td>
+</tr>
+<tr data-lines="825,826">
+<td><code>minecraft:chorus_flower</code></td>
+<td>紫颂花</td>
+</tr>
+<tr data-lines="826,827">
+<td><code>minecraft:frogspawn</code></td>
+<td>青蛙卵</td>
+</tr>
+<tr data-lines="827,828">
+<td><code>minecraft:turtle_egg</code></td>
+<td>海龟蛋</td>
+</tr>
+<tr data-lines="828,829">
+<td><code>minecraft:sniffer_egg</code></td>
+<td>嗅探兽蛋</td>
+</tr>
+<tr data-lines="829,830">
+<td><code>minecraft:brain_coral</code></td>
+<td>脑纹珊瑚</td>
+</tr>
+<tr data-lines="830,831">
+<td><code>minecraft:bubble_coral</code></td>
+<td>气泡珊瑚</td>
+</tr>
+<tr data-lines="831,832">
+<td><code>minecraft:fire_coral</code></td>
+<td>火珊瑚</td>
+</tr>
+<tr data-lines="832,833">
+<td><code>minecraft:horn_coral</code></td>
+<td>管珊瑚</td>
+</tr>
+<tr data-lines="833,834">
+<td><code>minecraft:tube_coral</code></td>
+<td>鹿角珊瑚</td>
+</tr>
+<tr data-lines="834,835">
+<td><code>minecraft:dead_brain_coral</code></td>
+<td>失活脑纹珊瑚</td>
+</tr>
+<tr data-lines="835,836">
+<td><code>minecraft:dead_bubble_coral</code></td>
+<td>失活气泡珊瑚</td>
+</tr>
+<tr data-lines="836,837">
+<td><code>minecraft:dead_fire_coral</code></td>
+<td>失活火珊瑚</td>
+</tr>
+<tr data-lines="837,838">
+<td><code>minecraft:dead_horn_coral</code></td>
+<td>失活管珊瑚</td>
+</tr>
+<tr data-lines="838,839">
+<td><code>minecraft:dead_tube_coral</code></td>
+<td>失活鹿角珊瑚</td>
+</tr>
+<tr data-lines="839,840">
+<td><code>minecraft:brain_coral_block</code></td>
+<td>脑纹珊瑚块</td>
+</tr>
+<tr data-lines="840,841">
+<td><code>minecraft:bubble_coral_block</code></td>
+<td>气泡珊瑚块</td>
+</tr>
+<tr data-lines="841,842">
+<td><code>minecraft:fire_coral_block</code></td>
+<td>火珊瑚块</td>
+</tr>
+<tr data-lines="842,843">
+<td><code>minecraft:horn_coral_block</code></td>
+<td>管珊瑚块</td>
+</tr>
+<tr data-lines="843,844">
+<td><code>minecraft:tube_coral_block</code></td>
+<td>鹿角珊瑚块</td>
+</tr>
+<tr data-lines="844,845">
+<td><code>minecraft:dead_brain_coral_block</code></td>
+<td>失活脑纹珊瑚块</td>
+</tr>
+<tr data-lines="845,846">
+<td><code>minecraft:dead_bubble_coral_block</code></td>
+<td>失活气泡珊瑚块</td>
+</tr>
+<tr data-lines="846,847">
+<td><code>minecraft:dead_fire_coral_block</code></td>
+<td>失活火珊瑚块</td>
+</tr>
+<tr data-lines="847,848">
+<td><code>minecraft:dead_horn_coral_block</code></td>
+<td>失活管珊瑚块</td>
+</tr>
+<tr data-lines="848,849">
+<td><code>minecraft:dead_tube_coral_block</code></td>
+<td>失活鹿角珊瑚块</td>
+</tr>
+<tr data-lines="849,850">
+<td><code>minecraft:brain_coral_fan</code></td>
+<td>脑纹珊瑚扇</td>
+</tr>
+<tr data-lines="850,851">
+<td><code>minecraft:bubble_coral_fan</code></td>
+<td>气泡珊瑚扇</td>
+</tr>
+<tr data-lines="851,852">
+<td><code>minecraft:fire_coral_fan</code></td>
+<td>火珊瑚扇</td>
+</tr>
+<tr data-lines="852,853">
+<td><code>minecraft:horn_coral_fan</code></td>
+<td>管珊瑚扇</td>
+</tr>
+<tr data-lines="853,854">
+<td><code>minecraft:tube_coral_fan</code></td>
+<td>鹿角珊瑚扇</td>
+</tr>
+<tr data-lines="854,855">
+<td><code>minecraft:dead_brain_coral_fan</code></td>
+<td>失活脑纹珊瑚扇</td>
+</tr>
+<tr data-lines="855,856">
+<td><code>minecraft:dead_bubble_coral_fan</code></td>
+<td>失活气泡珊瑚扇</td>
+</tr>
+<tr data-lines="856,857">
+<td><code>minecraft:dead_fire_coral_fan</code></td>
+<td>失活火珊瑚扇</td>
+</tr>
+<tr data-lines="857,858">
+<td><code>minecraft:dead_horn_coral_fan</code></td>
+<td>失活管珊瑚扇</td>
+</tr>
+<tr data-lines="858,859">
+<td><code>minecraft:dead_tube_coral_fan</code></td>
+<td>失活鹿角珊瑚扇</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.33" class="markmap-node" transform="translate(278, 8497.34375)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="152" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="150" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="134" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.5 自然方块 / 植物</div></div></foreignObject></g><g data-depth="4" data-path="1.24.35.36" class="markmap-node" transform="translate(495, 9704.53125)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="384" y1="1112.59375" y2="1112.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="366" height="1112"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="862,915">
+<thead data-lines="862,863">
+<tr data-lines="862,863">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="864,915">
+<tr data-lines="864,865">
+<td><code>minecraft:coal</code></td>
+<td>煤炭</td>
+</tr>
+<tr data-lines="865,866">
+<td><code>minecraft:charcoal</code></td>
+<td>木炭</td>
+</tr>
+<tr data-lines="866,867">
+<td><code>minecraft:iron_ingot</code></td>
+<td>铁锭</td>
+</tr>
+<tr data-lines="867,868">
+<td><code>minecraft:copper_ingot</code></td>
+<td>铜锭</td>
+</tr>
+<tr data-lines="868,869">
+<td><code>minecraft:gold_ingot</code></td>
+<td>金锭</td>
+</tr>
+<tr data-lines="869,870">
+<td><code>minecraft:netherite_ingot</code></td>
+<td>下界合金锭</td>
+</tr>
+<tr data-lines="870,871">
+<td><code>minecraft:netherite_scrap</code></td>
+<td>下界合金碎片</td>
+</tr>
+<tr data-lines="871,872">
+<td><code>minecraft:raw_iron</code></td>
+<td>粗铁</td>
+</tr>
+<tr data-lines="872,873">
+<td><code>minecraft:raw_copper</code></td>
+<td>粗铜</td>
+</tr>
+<tr data-lines="873,874">
+<td><code>minecraft:raw_gold</code></td>
+<td>粗金</td>
+</tr>
+<tr data-lines="874,875">
+<td><code>minecraft:diamond</code></td>
+<td>钻石</td>
+</tr>
+<tr data-lines="875,876">
+<td><code>minecraft:emerald</code></td>
+<td>绿宝石</td>
+</tr>
+<tr data-lines="876,877">
+<td><code>minecraft:lapis_lazuli</code></td>
+<td>青金石</td>
+</tr>
+<tr data-lines="877,878">
+<td><code>minecraft:quartz</code></td>
+<td>下界石英</td>
+</tr>
+<tr data-lines="878,879">
+<td><code>minecraft:amethyst_shard</code></td>
+<td>紫水晶碎片</td>
+</tr>
+<tr data-lines="879,880">
+<td><code>minecraft:amethyst_cluster</code></td>
+<td>紫水晶簇</td>
+</tr>
+<tr data-lines="880,881">
+<td><code>minecraft:small_amethyst_bud</code></td>
+<td>小型紫水晶芽</td>
+</tr>
+<tr data-lines="881,882">
+<td><code>minecraft:medium_amethyst_bud</code></td>
+<td>中型紫水晶芽</td>
+</tr>
+<tr data-lines="882,883">
+<td><code>minecraft:large_amethyst_bud</code></td>
+<td>大型紫水晶芽</td>
+</tr>
+<tr data-lines="883,884">
+<td><code>minecraft:echo_shard</code></td>
+<td>回响碎片</td>
+</tr>
+<tr data-lines="884,885">
+<td><code>minecraft:prismarine_shard</code></td>
+<td>海晶碎片</td>
+</tr>
+<tr data-lines="885,886">
+<td><code>minecraft:prismarine_crystals</code></td>
+<td>海晶砂粒</td>
+</tr>
+<tr data-lines="886,887">
+<td><code>minecraft:nautilus_shell</code></td>
+<td>鹦鹉螺壳</td>
+</tr>
+<tr data-lines="887,888">
+<td><code>minecraft:heart_of_the_sea</code></td>
+<td>海洋之心</td>
+</tr>
+<tr data-lines="888,889">
+<td><code>minecraft:blaze_rod</code></td>
+<td>烈焰棒</td>
+</tr>
+<tr data-lines="889,890">
+<td><code>minecraft:blaze_powder</code></td>
+<td>烈焰粉</td>
+</tr>
+<tr data-lines="890,891">
+<td><code>minecraft:magma_cream</code></td>
+<td>岩浆膏</td>
+</tr>
+<tr data-lines="891,892">
+<td><code>minecraft:ender_pearl</code></td>
+<td>末影珍珠</td>
+</tr>
+<tr data-lines="892,893">
+<td><code>minecraft:ender_eye</code></td>
+<td>末影之眼</td>
+</tr>
+<tr data-lines="893,894">
+<td><code>minecraft:nether_star</code></td>
+<td>下界之星</td>
+</tr>
+<tr data-lines="894,895">
+<td><code>minecraft:dragon_breath</code></td>
+<td>龙息</td>
+</tr>
+<tr data-lines="895,896">
+<td><code>minecraft:shulker_shell</code></td>
+<td>潜影壳</td>
+</tr>
+<tr data-lines="896,897">
+<td><code>minecraft:phantom_membrane</code></td>
+<td>幻翼膜</td>
+</tr>
+<tr data-lines="897,898">
+<td><code>minecraft:slimeball</code></td>
+<td>黏液球</td>
+</tr>
+<tr data-lines="898,899">
+<td><code>minecraft:bone</code></td>
+<td>骨头</td>
+</tr>
+<tr data-lines="899,900">
+<td><code>minecraft:bone_meal</code></td>
+<td>骨粉</td>
+</tr>
+<tr data-lines="900,901">
+<td><code>minecraft:string</code></td>
+<td>线</td>
+</tr>
+<tr data-lines="901,902">
+<td><code>minecraft:feather</code></td>
+<td>羽毛</td>
+</tr>
+<tr data-lines="902,903">
+<td><code>minecraft:flint</code></td>
+<td>燧石</td>
+</tr>
+<tr data-lines="903,904">
+<td><code>minecraft:clay_ball</code></td>
+<td>黏土球</td>
+</tr>
+<tr data-lines="904,905">
+<td><code>minecraft:leather</code></td>
+<td>皮革</td>
+</tr>
+<tr data-lines="905,906">
+<td><code>minecraft:rabbit_hide</code></td>
+<td>兔子皮</td>
+</tr>
+<tr data-lines="906,907">
+<td><code>minecraft:ink_sac</code></td>
+<td>墨囊</td>
+</tr>
+<tr data-lines="907,908">
+<td><code>minecraft:glow_ink_sac</code></td>
+<td>荧光墨囊</td>
+</tr>
+<tr data-lines="908,909">
+<td><code>minecraft:scute</code></td>
+<td>鳞甲</td>
+</tr>
+<tr data-lines="909,910">
+<td><code>minecraft:armadillo_scute</code></td>
+<td>犰狳鳞甲</td>
+</tr>
+<tr data-lines="910,911">
+<td><code>minecraft:resin_clump</code></td>
+<td>树脂团 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="911,912">
+<td><code>minecraft:resin_brick</code></td>
+<td>树脂砖 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="912,913">
+<td><code>minecraft:breeze_rod</code></td>
+<td>旋风棒 ⭐1.21+</td>
+</tr>
+<tr data-lines="913,914">
+<td><code>minecraft:heavy_core</code></td>
+<td>沉重核心 ⭐1.21+</td>
+</tr>
+<tr data-lines="914,915">
+<td><code>minecraft:dried_ghast</code></td>
+<td>干瘪恶魂 ⭐1.21.5+</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.35" class="markmap-node" transform="translate(278, 10250.03125)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="139" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="137" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="121" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.6 矿物与原材料</div></div></foreignObject></g><g data-depth="4" data-path="1.24.37.38" class="markmap-node" transform="translate(479, 10827.71875)"><line stroke="#7f7f7f" stroke-width="1.1875" x1="-1" x2="330" y1="536.59375" y2="536.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="312" height="536"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="918,944">
+<thead data-lines="918,919">
+<tr data-lines="918,919">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="920,944">
+<tr data-lines="920,921">
+<td><code>minecraft:glass_bottle</code></td>
+<td>玻璃瓶</td>
+</tr>
+<tr data-lines="921,922">
+<td><code>minecraft:water_bottle</code></td>
+<td>水瓶</td>
+</tr>
+<tr data-lines="922,923">
+<td><code>minecraft:potion</code></td>
+<td>药水</td>
+</tr>
+<tr data-lines="923,924">
+<td><code>minecraft:splash_potion</code></td>
+<td>喷溅药水</td>
+</tr>
+<tr data-lines="924,925">
+<td><code>minecraft:lingering_potion</code></td>
+<td>滞留药水</td>
+</tr>
+<tr data-lines="925,926">
+<td><code>minecraft:brewing_stand</code></td>
+<td>酿造台</td>
+</tr>
+<tr data-lines="926,927">
+<td><code>minecraft:cauldron</code></td>
+<td>炼药锅</td>
+</tr>
+<tr data-lines="927,928">
+<td><code>minecraft:nether_wart</code></td>
+<td>下界疣</td>
+</tr>
+<tr data-lines="928,929">
+<td><code>minecraft:redstone</code></td>
+<td>红石粉</td>
+</tr>
+<tr data-lines="929,930">
+<td><code>minecraft:glowstone_dust</code></td>
+<td>荧石粉</td>
+</tr>
+<tr data-lines="930,931">
+<td><code>minecraft:gunpowder</code></td>
+<td>火药</td>
+</tr>
+<tr data-lines="931,932">
+<td><code>minecraft:dragon_breath</code></td>
+<td>龙息</td>
+</tr>
+<tr data-lines="932,933">
+<td><code>minecraft:fermented_spider_eye</code></td>
+<td>发酵蛛眼</td>
+</tr>
+<tr data-lines="933,934">
+<td><code>minecraft:blaze_powder</code></td>
+<td>烈焰粉</td>
+</tr>
+<tr data-lines="934,935">
+<td><code>minecraft:sugar</code></td>
+<td>糖</td>
+</tr>
+<tr data-lines="935,936">
+<td><code>minecraft:rabbit_foot</code></td>
+<td>兔子脚</td>
+</tr>
+<tr data-lines="936,937">
+<td><code>minecraft:glistering_melon_slice</code></td>
+<td>闪烁的西瓜片</td>
+</tr>
+<tr data-lines="937,938">
+<td><code>minecraft:spider_eye</code></td>
+<td>蜘蛛眼</td>
+</tr>
+<tr data-lines="938,939">
+<td><code>minecraft:pufferfish</code></td>
+<td>河豚</td>
+</tr>
+<tr data-lines="939,940">
+<td><code>minecraft:magma_cream</code></td>
+<td>岩浆膏</td>
+</tr>
+<tr data-lines="940,941">
+<td><code>minecraft:golden_carrot</code></td>
+<td>金胡萝卜</td>
+</tr>
+<tr data-lines="941,942">
+<td><code>minecraft:ghast_tear</code></td>
+<td>恶魂之泪</td>
+</tr>
+<tr data-lines="942,943">
+<td><code>minecraft:turtle_helmet</code></td>
+<td>海龟壳</td>
+</tr>
+<tr data-lines="943,944">
+<td><code>minecraft:phantom_membrane</code></td>
+<td>幻翼膜</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.37" class="markmap-node" transform="translate(278, 11085.21875)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="123" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#e377c2" fill="var(--markmap-circle-open-bg)" cx="121" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="105" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.7 酿造与药水</div></div></foreignObject></g><g data-depth="4" data-path="1.24.39.40" class="markmap-node" transform="translate(479, 11374.90625)"><line stroke="#17becf" stroke-width="1.1875" x1="-1" x2="451" y1="750.59375" y2="750.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="433" height="750"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="947,983">
+<thead data-lines="947,948">
+<tr data-lines="947,948">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="949,983">
+<tr data-lines="949,950">
+<td><code>minecraft:saddle</code></td>
+<td>鞍</td>
+</tr>
+<tr data-lines="950,951">
+<td><code>minecraft:lead</code></td>
+<td>拴绳</td>
+</tr>
+<tr data-lines="951,952">
+<td><code>minecraft:name_tag</code></td>
+<td>命名牌</td>
+</tr>
+<tr data-lines="952,953">
+<td><code>minecraft:compass</code></td>
+<td>指南针</td>
+</tr>
+<tr data-lines="953,954">
+<td><code>minecraft:recovery_compass</code></td>
+<td>追溯指南针</td>
+</tr>
+<tr data-lines="954,955">
+<td><code>minecraft:clock</code></td>
+<td>时钟</td>
+</tr>
+<tr data-lines="955,956">
+<td><code>minecraft:map</code></td>
+<td>空地图</td>
+</tr>
+<tr data-lines="956,957">
+<td><code>minecraft:filled_map</code></td>
+<td>地图</td>
+</tr>
+<tr data-lines="957,958">
+<td><code>minecraft:oak_boat</code></td>
+<td>橡木船</td>
+</tr>
+<tr data-lines="958,959">
+<td><code>minecraft:spruce_boat</code></td>
+<td>云杉木船</td>
+</tr>
+<tr data-lines="959,960">
+<td><code>minecraft:birch_boat</code></td>
+<td>白桦木船</td>
+</tr>
+<tr data-lines="960,961">
+<td><code>minecraft:jungle_boat</code></td>
+<td>丛林木船</td>
+</tr>
+<tr data-lines="961,962">
+<td><code>minecraft:acacia_boat</code></td>
+<td>金合欢木船</td>
+</tr>
+<tr data-lines="962,963">
+<td><code>minecraft:dark_oak_boat</code></td>
+<td>深色橡木船</td>
+</tr>
+<tr data-lines="963,964">
+<td><code>minecraft:mangrove_boat</code></td>
+<td>红树木船</td>
+</tr>
+<tr data-lines="964,965">
+<td><code>minecraft:cherry_boat</code></td>
+<td>樱花木船</td>
+</tr>
+<tr data-lines="965,966">
+<td><code>minecraft:pale_oak_boat</code></td>
+<td>苍白橡木船 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="966,967">
+<td><code>minecraft:bamboo_raft</code></td>
+<td>竹筏</td>
+</tr>
+<tr data-lines="967,968">
+<td><code>minecraft:oak_chest_boat</code></td>
+<td>橡木运输船</td>
+</tr>
+<tr data-lines="968,969">
+<td><code>minecraft:spruce_chest_boat</code></td>
+<td>云杉木运输船</td>
+</tr>
+<tr data-lines="969,970">
+<td><code>minecraft:birch_chest_boat</code></td>
+<td>白桦木运输船</td>
+</tr>
+<tr data-lines="970,971">
+<td><code>minecraft:jungle_chest_boat</code></td>
+<td>丛林木运输船</td>
+</tr>
+<tr data-lines="971,972">
+<td><code>minecraft:acacia_chest_boat</code></td>
+<td>金合欢木运输船</td>
+</tr>
+<tr data-lines="972,973">
+<td><code>minecraft:dark_oak_chest_boat</code></td>
+<td>深色橡木运输船</td>
+</tr>
+<tr data-lines="973,974">
+<td><code>minecraft:mangrove_chest_boat</code></td>
+<td>红树木运输船</td>
+</tr>
+<tr data-lines="974,975">
+<td><code>minecraft:cherry_chest_boat</code></td>
+<td>樱花木运输船</td>
+</tr>
+<tr data-lines="975,976">
+<td><code>minecraft:pale_oak_chest_boat</code></td>
+<td>苍白橡木运输船 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="976,977">
+<td><code>minecraft:bamboo_chest_raft</code></td>
+<td>运输竹筏</td>
+</tr>
+<tr data-lines="977,978">
+<td><code>minecraft:minecart</code></td>
+<td>矿车</td>
+</tr>
+<tr data-lines="978,979">
+<td><code>minecraft:chest_minecart</code></td>
+<td>运输矿车</td>
+</tr>
+<tr data-lines="979,980">
+<td><code>minecraft:furnace_minecart</code></td>
+<td>动力矿车</td>
+</tr>
+<tr data-lines="980,981">
+<td><code>minecraft:tnt_minecart</code></td>
+<td>TNT矿车</td>
+</tr>
+<tr data-lines="981,982">
+<td><code>minecraft:hopper_minecart</code></td>
+<td>漏斗矿车</td>
+</tr>
+<tr data-lines="982,983">
+<td><code>minecraft:command_block_minecart</code></td>
+<td>命令方块矿车</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.39" class="markmap-node" transform="translate(278, 11739.40625)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="123" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#bcbd22" fill="var(--markmap-circle-open-bg)" cx="121" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="105" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.8 运输与导航</div></div></foreignObject></g><g data-depth="4" data-path="1.24.41.42" class="markmap-node" transform="translate(463, 12136.09375)"><line stroke="#ff7f0e" stroke-width="1.1875" x1="-1" x2="417" y1="1688.59375" y2="1688.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="399" height="1688"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="986,1066">
+<thead data-lines="986,987">
+<tr data-lines="986,987">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="988,1066">
+<tr data-lines="988,989">
+<td><code>minecraft:crafting_table</code></td>
+<td>工作台</td>
+</tr>
+<tr data-lines="989,990">
+<td><code>minecraft:furnace</code></td>
+<td>熔炉</td>
+</tr>
+<tr data-lines="990,991">
+<td><code>minecraft:blast_furnace</code></td>
+<td>高炉</td>
+</tr>
+<tr data-lines="991,992">
+<td><code>minecraft:smoker</code></td>
+<td>烟熏炉</td>
+</tr>
+<tr data-lines="992,993">
+<td><code>minecraft:campfire</code></td>
+<td>营火</td>
+</tr>
+<tr data-lines="993,994">
+<td><code>minecraft:soul_campfire</code></td>
+<td>灵魂营火</td>
+</tr>
+<tr data-lines="994,995">
+<td><code>minecraft:anvil</code></td>
+<td>铁砧</td>
+</tr>
+<tr data-lines="995,996">
+<td><code>minecraft:chipped_anvil</code></td>
+<td>开裂的铁砧</td>
+</tr>
+<tr data-lines="996,997">
+<td><code>minecraft:damaged_anvil</code></td>
+<td>损坏的铁砧</td>
+</tr>
+<tr data-lines="997,998">
+<td><code>minecraft:composter</code></td>
+<td>堆肥桶</td>
+</tr>
+<tr data-lines="998,999">
+<td><code>minecraft:barrel</code></td>
+<td>木桶</td>
+</tr>
+<tr data-lines="999,1000">
+<td><code>minecraft:chest</code></td>
+<td>箱子</td>
+</tr>
+<tr data-lines="1000,1001">
+<td><code>minecraft:ender_chest</code></td>
+<td>末影箱</td>
+</tr>
+<tr data-lines="1001,1002">
+<td><code>minecraft:trapped_chest</code></td>
+<td>陷阱箱</td>
+</tr>
+<tr data-lines="1002,1003">
+<td><code>minecraft:enchanting_table</code></td>
+<td>附魔台</td>
+</tr>
+<tr data-lines="1003,1004">
+<td><code>minecraft:bookshelf</code></td>
+<td>书架</td>
+</tr>
+<tr data-lines="1004,1005">
+<td><code>minecraft:chiseled_bookshelf</code></td>
+<td>雕纹书架</td>
+</tr>
+<tr data-lines="1005,1006">
+<td><code>minecraft:beehive</code></td>
+<td>蜂巢</td>
+</tr>
+<tr data-lines="1006,1007">
+<td><code>minecraft:bee_nest</code></td>
+<td>蜂箱</td>
+</tr>
+<tr data-lines="1007,1008">
+<td><code>minecraft:lodestone</code></td>
+<td>磁石</td>
+</tr>
+<tr data-lines="1008,1009">
+<td><code>minecraft:respawn_anchor</code></td>
+<td>重生锚</td>
+</tr>
+<tr data-lines="1009,1010">
+<td><code>minecraft:end_portal_frame</code></td>
+<td>末地传送门框架</td>
+</tr>
+<tr data-lines="1010,1011">
+<td><code>minecraft:jukebox</code></td>
+<td>唱片机</td>
+</tr>
+<tr data-lines="1011,1012">
+<td><code>minecraft:note_block</code></td>
+<td>音符盒</td>
+</tr>
+<tr data-lines="1012,1013">
+<td><code>minecraft:bell</code></td>
+<td>钟</td>
+</tr>
+<tr data-lines="1013,1014">
+<td><code>minecraft:loom</code></td>
+<td>织布机</td>
+</tr>
+<tr data-lines="1014,1015">
+<td><code>minecraft:smithing_table</code></td>
+<td>锻造台</td>
+</tr>
+<tr data-lines="1015,1016">
+<td><code>minecraft:fletching_table</code></td>
+<td>制箭台</td>
+</tr>
+<tr data-lines="1016,1017">
+<td><code>minecraft:cartography_table</code></td>
+<td>制图台</td>
+</tr>
+<tr data-lines="1017,1018">
+<td><code>minecraft:grindstone</code></td>
+<td>砂轮</td>
+</tr>
+<tr data-lines="1018,1019">
+<td><code>minecraft:stonecutter</code></td>
+<td>切石机</td>
+</tr>
+<tr data-lines="1019,1020">
+<td><code>minecraft:flower_pot</code></td>
+<td>花盆</td>
+</tr>
+<tr data-lines="1020,1021">
+<td><code>minecraft:skeleton_skull</code></td>
+<td>骷髅头颅</td>
+</tr>
+<tr data-lines="1021,1022">
+<td><code>minecraft:wither_skeleton_skull</code></td>
+<td>凋灵骷髅头颅</td>
+</tr>
+<tr data-lines="1022,1023">
+<td><code>minecraft:zombie_head</code></td>
+<td>僵尸的头</td>
+</tr>
+<tr data-lines="1023,1024">
+<td><code>minecraft:player_head</code></td>
+<td>玩家的头</td>
+</tr>
+<tr data-lines="1024,1025">
+<td><code>minecraft:creeper_head</code></td>
+<td>爬行者头颅</td>
+</tr>
+<tr data-lines="1025,1026">
+<td><code>minecraft:dragon_head</code></td>
+<td>龙首</td>
+</tr>
+<tr data-lines="1026,1027">
+<td><code>minecraft:piglin_head</code></td>
+<td>猪灵的头</td>
+</tr>
+<tr data-lines="1027,1028">
+<td><code>minecraft:dragon_egg</code></td>
+<td>龙蛋</td>
+</tr>
+<tr data-lines="1028,1029">
+<td><code>minecraft:end_rod</code></td>
+<td>末地烛</td>
+</tr>
+<tr data-lines="1029,1030">
+<td><code>minecraft:torch</code></td>
+<td>火把</td>
+</tr>
+<tr data-lines="1030,1031">
+<td><code>minecraft:soul_torch</code></td>
+<td>灵魂火把</td>
+</tr>
+<tr data-lines="1031,1032">
+<td><code>minecraft:redstone_torch</code></td>
+<td>红石火把</td>
+</tr>
+<tr data-lines="1032,1033">
+<td><code>minecraft:lantern</code></td>
+<td>灯笼</td>
+</tr>
+<tr data-lines="1033,1034">
+<td><code>minecraft:soul_lantern</code></td>
+<td>灵魂灯笼</td>
+</tr>
+<tr data-lines="1034,1035">
+<td><code>minecraft:glowstone</code></td>
+<td>荧石</td>
+</tr>
+<tr data-lines="1035,1036">
+<td><code>minecraft:sea_lantern</code></td>
+<td>海晶灯</td>
+</tr>
+<tr data-lines="1036,1037">
+<td><code>minecraft:redstone_lamp</code></td>
+<td>红石灯</td>
+</tr>
+<tr data-lines="1037,1038">
+<td><code>minecraft:ochre_froglight</code></td>
+<td>赭黄蛙明灯</td>
+</tr>
+<tr data-lines="1038,1039">
+<td><code>minecraft:verdant_froglight</code></td>
+<td>碧绿蛙明灯</td>
+</tr>
+<tr data-lines="1039,1040">
+<td><code>minecraft:pearlescent_froglight</code></td>
+<td>珠光蛙明灯</td>
+</tr>
+<tr data-lines="1040,1041">
+<td><code>minecraft:candle</code></td>
+<td>蜡烛</td>
+</tr>
+<tr data-lines="1041,1042">
+<td><code>minecraft:white_candle</code></td>
+<td>白色蜡烛</td>
+</tr>
+<tr data-lines="1042,1043">
+<td><code>minecraft:orange_candle</code></td>
+<td>橙色蜡烛</td>
+</tr>
+<tr data-lines="1043,1044">
+<td><code>minecraft:magenta_candle</code></td>
+<td>品红色蜡烛</td>
+</tr>
+<tr data-lines="1044,1045">
+<td><code>minecraft:light_blue_candle</code></td>
+<td>淡蓝色蜡烛</td>
+</tr>
+<tr data-lines="1045,1046">
+<td><code>minecraft:yellow_candle</code></td>
+<td>黄色蜡烛</td>
+</tr>
+<tr data-lines="1046,1047">
+<td><code>minecraft:lime_candle</code></td>
+<td>黄绿色蜡烛</td>
+</tr>
+<tr data-lines="1047,1048">
+<td><code>minecraft:pink_candle</code></td>
+<td>粉红色蜡烛</td>
+</tr>
+<tr data-lines="1048,1049">
+<td><code>minecraft:gray_candle</code></td>
+<td>灰色蜡烛</td>
+</tr>
+<tr data-lines="1049,1050">
+<td><code>minecraft:light_gray_candle</code></td>
+<td>淡灰色蜡烛</td>
+</tr>
+<tr data-lines="1050,1051">
+<td><code>minecraft:cyan_candle</code></td>
+<td>青色蜡烛</td>
+</tr>
+<tr data-lines="1051,1052">
+<td><code>minecraft:purple_candle</code></td>
+<td>紫色蜡烛</td>
+</tr>
+<tr data-lines="1052,1053">
+<td><code>minecraft:blue_candle</code></td>
+<td>蓝色蜡烛</td>
+</tr>
+<tr data-lines="1053,1054">
+<td><code>minecraft:brown_candle</code></td>
+<td>棕色蜡烛</td>
+</tr>
+<tr data-lines="1054,1055">
+<td><code>minecraft:green_candle</code></td>
+<td>绿色蜡烛</td>
+</tr>
+<tr data-lines="1055,1056">
+<td><code>minecraft:red_candle</code></td>
+<td>红色蜡烛</td>
+</tr>
+<tr data-lines="1056,1057">
+<td><code>minecraft:black_candle</code></td>
+<td>黑色蜡烛</td>
+</tr>
+<tr data-lines="1057,1058">
+<td><code>minecraft:decorated_pot</code></td>
+<td>饰纹陶罐</td>
+</tr>
+<tr data-lines="1058,1059">
+<td><code>minecraft:suspicious_sand</code></td>
+<td>可疑的沙子</td>
+</tr>
+<tr data-lines="1059,1060">
+<td><code>minecraft:suspicious_gravel</code></td>
+<td>可疑的沙砾</td>
+</tr>
+<tr data-lines="1060,1061">
+<td><code>minecraft:trial_spawner</code></td>
+<td>试炼刷怪笼 ⭐1.21+</td>
+</tr>
+<tr data-lines="1061,1062">
+<td><code>minecraft:ominous_trial_spawner</code></td>
+<td>不祥试炼刷怪笼 ⭐1.21+</td>
+</tr>
+<tr data-lines="1062,1063">
+<td><code>minecraft:vault</code></td>
+<td>宝库 ⭐1.21+</td>
+</tr>
+<tr data-lines="1063,1064">
+<td><code>minecraft:ominous_vault</code></td>
+<td>不祥宝库 ⭐1.21+</td>
+</tr>
+<tr data-lines="1064,1065">
+<td><code>minecraft:creaking_heart</code></td>
+<td>嘎枝之心 ⭐1.21.4+</td>
+</tr>
+<tr data-lines="1065,1066">
+<td><code>minecraft:dried_ghast</code></td>
+<td>干瘪恶魂 ⭐1.21.5+</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.41" class="markmap-node" transform="translate(278, 12969.59375)"><line stroke="#1f77b4" stroke-width="1.375" x1="-1" x2="107" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="105" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="89" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.9 功能方块</div></div></foreignObject></g><g data-depth="4" data-path="1.24.43.44" class="markmap-node" transform="translate(487, 13835.28125)"><line stroke="#d62728" stroke-width="1.1875" x1="-1" x2="453" y1="1432.59375" y2="1432.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="435" height="1432"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="1069,1137">
+<thead data-lines="1069,1070">
+<tr data-lines="1069,1070">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="1071,1137">
+<tr data-lines="1071,1072">
+<td><code>minecraft:netherrack</code></td>
+<td>下界岩</td>
+</tr>
+<tr data-lines="1072,1073">
+<td><code>minecraft:crimson_nylium</code></td>
+<td>绯红菌岩</td>
+</tr>
+<tr data-lines="1073,1074">
+<td><code>minecraft:warped_nylium</code></td>
+<td>诡异菌岩</td>
+</tr>
+<tr data-lines="1074,1075">
+<td><code>minecraft:soul_sand</code></td>
+<td>灵魂沙</td>
+</tr>
+<tr data-lines="1075,1076">
+<td><code>minecraft:soul_soil</code></td>
+<td>灵魂土</td>
+</tr>
+<tr data-lines="1076,1077">
+<td><code>minecraft:blackstone</code></td>
+<td>黑石</td>
+</tr>
+<tr data-lines="1077,1078">
+<td><code>minecraft:basalt</code></td>
+<td>玄武岩</td>
+</tr>
+<tr data-lines="1078,1079">
+<td><code>minecraft:smooth_basalt</code></td>
+<td>平滑玄武岩</td>
+</tr>
+<tr data-lines="1079,1080">
+<td><code>minecraft:polished_basalt</code></td>
+<td>磨制玄武岩</td>
+</tr>
+<tr data-lines="1080,1081">
+<td><code>minecraft:gilded_blackstone</code></td>
+<td>镶金黑石</td>
+</tr>
+<tr data-lines="1081,1082">
+<td><code>minecraft:chiseled_polished_blackstone</code></td>
+<td>雕纹磨制黑石</td>
+</tr>
+<tr data-lines="1082,1083">
+<td><code>minecraft:polished_blackstone</code></td>
+<td>磨制黑石</td>
+</tr>
+<tr data-lines="1083,1084">
+<td><code>minecraft:polished_blackstone_bricks</code></td>
+<td>磨制黑石砖</td>
+</tr>
+<tr data-lines="1084,1085">
+<td><code>minecraft:cracked_polished_blackstone_bricks</code></td>
+<td>裂纹磨制黑石砖</td>
+</tr>
+<tr data-lines="1085,1086">
+<td><code>minecraft:nether_bricks</code></td>
+<td>下界砖块</td>
+</tr>
+<tr data-lines="1086,1087">
+<td><code>minecraft:cracked_nether_bricks</code></td>
+<td>裂纹下界砖块</td>
+</tr>
+<tr data-lines="1087,1088">
+<td><code>minecraft:chiseled_nether_bricks</code></td>
+<td>雕纹下界砖块</td>
+</tr>
+<tr data-lines="1088,1089">
+<td><code>minecraft:red_nether_bricks</code></td>
+<td>红色下界砖块</td>
+</tr>
+<tr data-lines="1089,1090">
+<td><code>minecraft:nether_wart_block</code></td>
+<td>下界疣块</td>
+</tr>
+<tr data-lines="1090,1091">
+<td><code>minecraft:warped_wart_block</code></td>
+<td>诡异疣块</td>
+</tr>
+<tr data-lines="1091,1092">
+<td><code>minecraft:shroomlight</code></td>
+<td>菌光体</td>
+</tr>
+<tr data-lines="1092,1093">
+<td><code>minecraft:crimson_stem</code></td>
+<td>绯红菌柄</td>
+</tr>
+<tr data-lines="1093,1094">
+<td><code>minecraft:warped_stem</code></td>
+<td>诡异菌柄</td>
+</tr>
+<tr data-lines="1094,1095">
+<td><code>minecraft:stripped_crimson_stem</code></td>
+<td>去皮绯红菌柄</td>
+</tr>
+<tr data-lines="1095,1096">
+<td><code>minecraft:stripped_warped_stem</code></td>
+<td>去皮诡异菌柄</td>
+</tr>
+<tr data-lines="1096,1097">
+<td><code>minecraft:crimson_hyphae</code></td>
+<td>绯红菌核</td>
+</tr>
+<tr data-lines="1097,1098">
+<td><code>minecraft:warped_hyphae</code></td>
+<td>诡异菌核</td>
+</tr>
+<tr data-lines="1098,1099">
+<td><code>minecraft:stripped_crimson_hyphae</code></td>
+<td>去皮绯红菌核</td>
+</tr>
+<tr data-lines="1099,1100">
+<td><code>minecraft:stripped_warped_hyphae</code></td>
+<td>去皮诡异菌核</td>
+</tr>
+<tr data-lines="1100,1101">
+<td><code>minecraft:crimson_planks</code></td>
+<td>绯红木板</td>
+</tr>
+<tr data-lines="1101,1102">
+<td><code>minecraft:warped_planks</code></td>
+<td>诡异木板</td>
+</tr>
+<tr data-lines="1102,1103">
+<td><code>minecraft:crimson_stairs</code></td>
+<td>绯红楼梯</td>
+</tr>
+<tr data-lines="1103,1104">
+<td><code>minecraft:warped_stairs</code></td>
+<td>诡异楼梯</td>
+</tr>
+<tr data-lines="1104,1105">
+<td><code>minecraft:crimson_slab</code></td>
+<td>绯红台阶</td>
+</tr>
+<tr data-lines="1105,1106">
+<td><code>minecraft:warped_slab</code></td>
+<td>诡异台阶</td>
+</tr>
+<tr data-lines="1106,1107">
+<td><code>minecraft:crimson_fence</code></td>
+<td>绯红栅栏</td>
+</tr>
+<tr data-lines="1107,1108">
+<td><code>minecraft:warped_fence</code></td>
+<td>诡异栅栏</td>
+</tr>
+<tr data-lines="1108,1109">
+<td><code>minecraft:crimson_fence_gate</code></td>
+<td>绯红栅栏门</td>
+</tr>
+<tr data-lines="1109,1110">
+<td><code>minecraft:warped_fence_gate</code></td>
+<td>诡异栅栏门</td>
+</tr>
+<tr data-lines="1110,1111">
+<td><code>minecraft:crimson_door</code></td>
+<td>绯红门</td>
+</tr>
+<tr data-lines="1111,1112">
+<td><code>minecraft:warped_door</code></td>
+<td>诡异门</td>
+</tr>
+<tr data-lines="1112,1113">
+<td><code>minecraft:crimson_trapdoor</code></td>
+<td>绯红活板门</td>
+</tr>
+<tr data-lines="1113,1114">
+<td><code>minecraft:warped_trapdoor</code></td>
+<td>诡异活板门</td>
+</tr>
+<tr data-lines="1114,1115">
+<td><code>minecraft:crimson_sign</code></td>
+<td>绯红告示牌</td>
+</tr>
+<tr data-lines="1115,1116">
+<td><code>minecraft:warped_sign</code></td>
+<td>诡异告示牌</td>
+</tr>
+<tr data-lines="1116,1117">
+<td><code>minecraft:crimson_hanging_sign</code></td>
+<td>绯红悬挂式告示牌</td>
+</tr>
+<tr data-lines="1117,1118">
+<td><code>minecraft:warped_hanging_sign</code></td>
+<td>诡异悬挂式告示牌</td>
+</tr>
+<tr data-lines="1118,1119">
+<td><code>minecraft:crimson_button</code></td>
+<td>绯红按钮</td>
+</tr>
+<tr data-lines="1119,1120">
+<td><code>minecraft:warped_button</code></td>
+<td>诡异按钮</td>
+</tr>
+<tr data-lines="1120,1121">
+<td><code>minecraft:crimson_pressure_plate</code></td>
+<td>绯红压力板</td>
+</tr>
+<tr data-lines="1121,1122">
+<td><code>minecraft:warped_pressure_plate</code></td>
+<td>诡异压力板</td>
+</tr>
+<tr data-lines="1122,1123">
+<td><code>minecraft:netherite_block</code></td>
+<td>下界合金块</td>
+</tr>
+<tr data-lines="1123,1124">
+<td><code>minecraft:ancient_debris</code></td>
+<td>远古残骸</td>
+</tr>
+<tr data-lines="1124,1125">
+<td><code>minecraft:crying_obsidian</code></td>
+<td>哭泣的黑曜石</td>
+</tr>
+<tr data-lines="1125,1126">
+<td><code>minecraft:respawn_anchor</code></td>
+<td>重生锚</td>
+</tr>
+<tr data-lines="1126,1127">
+<td><code>minecraft:end_stone</code></td>
+<td>末地石</td>
+</tr>
+<tr data-lines="1127,1128">
+<td><code>minecraft:end_stone_bricks</code></td>
+<td>末地石砖</td>
+</tr>
+<tr data-lines="1128,1129">
+<td><code>minecraft:purpur_block</code></td>
+<td>紫珀块</td>
+</tr>
+<tr data-lines="1129,1130">
+<td><code>minecraft:purpur_pillar</code></td>
+<td>紫珀柱</td>
+</tr>
+<tr data-lines="1130,1131">
+<td><code>minecraft:purpur_stairs</code></td>
+<td>紫珀楼梯</td>
+</tr>
+<tr data-lines="1131,1132">
+<td><code>minecraft:purpur_slab</code></td>
+<td>紫珀台阶</td>
+</tr>
+<tr data-lines="1132,1133">
+<td><code>minecraft:end_rod</code></td>
+<td>末地烛</td>
+</tr>
+<tr data-lines="1133,1134">
+<td><code>minecraft:dragon_egg</code></td>
+<td>龙蛋</td>
+</tr>
+<tr data-lines="1134,1135">
+<td><code>minecraft:end_portal_frame</code></td>
+<td>末地传送门框架</td>
+</tr>
+<tr data-lines="1135,1136">
+<td><code>minecraft:chorus_plant</code></td>
+<td>紫颂植株</td>
+</tr>
+<tr data-lines="1136,1137">
+<td><code>minecraft:chorus_flower</code></td>
+<td>紫颂花</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.43" class="markmap-node" transform="translate(278, 14540.78125)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="131" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#2ca02c" fill="var(--markmap-circle-open-bg)" cx="129" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="113" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.10 下界与末地</div></div></foreignObject></g><g data-depth="4" data-path="1.24.45.46" class="markmap-node" transform="translate(517, 15278.46875)"><line stroke="#8c564b" stroke-width="1.1875" x1="-1" x2="296" y1="430.59375" y2="430.59375"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="278" height="430"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="1140,1161">
+<thead data-lines="1140,1141">
+<tr data-lines="1140,1141">
+<th>命名空间ID</th>
+<th>中文名</th>
+</tr>
+</thead>
+<tbody data-lines="1142,1161">
+<tr data-lines="1142,1143">
+<td><code>minecraft:stick</code></td>
+<td>木棍</td>
+</tr>
+<tr data-lines="1143,1144">
+<td><code>minecraft:bowl</code></td>
+<td>碗</td>
+</tr>
+<tr data-lines="1144,1145">
+<td><code>minecraft:paper</code></td>
+<td>纸</td>
+</tr>
+<tr data-lines="1145,1146">
+<td><code>minecraft:book</code></td>
+<td>书</td>
+</tr>
+<tr data-lines="1146,1147">
+<td><code>minecraft:bucket</code></td>
+<td>铁桶</td>
+</tr>
+<tr data-lines="1147,1148">
+<td><code>minecraft:water_bucket</code></td>
+<td>水桶</td>
+</tr>
+<tr data-lines="1148,1149">
+<td><code>minecraft:lava_bucket</code></td>
+<td>熔岩桶</td>
+</tr>
+<tr data-lines="1149,1150">
+<td><code>minecraft:powder_snow_bucket</code></td>
+<td>细雪桶</td>
+</tr>
+<tr data-lines="1150,1151">
+<td><code>minecraft:milk_bucket</code></td>
+<td>奶桶</td>
+</tr>
+<tr data-lines="1151,1152">
+<td><code>minecraft:pufferfish_bucket</code></td>
+<td>河豚桶</td>
+</tr>
+<tr data-lines="1152,1153">
+<td><code>minecraft:salmon_bucket</code></td>
+<td>鲑鱼桶</td>
+</tr>
+<tr data-lines="1153,1154">
+<td><code>minecraft:cod_bucket</code></td>
+<td>鳕鱼桶</td>
+</tr>
+<tr data-lines="1154,1155">
+<td><code>minecraft:tropical_fish_bucket</code></td>
+<td>热带鱼桶</td>
+</tr>
+<tr data-lines="1155,1156">
+<td><code>minecraft:axolotl_bucket</code></td>
+<td>美西螈桶</td>
+</tr>
+<tr data-lines="1156,1157">
+<td><code>minecraft:tadpole_bucket</code></td>
+<td>蝌蚪桶</td>
+</tr>
+<tr data-lines="1157,1158">
+<td><code>minecraft:firework_rocket</code></td>
+<td>烟花火箭</td>
+</tr>
+<tr data-lines="1158,1159">
+<td><code>minecraft:firework_star</code></td>
+<td>烟火之星</td>
+</tr>
+<tr data-lines="1159,1160">
+<td><code>minecraft:enchanted_book</code></td>
+<td>附魔书</td>
+</tr>
+<tr data-lines="1160,1161">
+<td><code>minecraft:nether_brick</code></td>
+<td></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="3" data-path="1.24.45" class="markmap-node" transform="translate(278, 15482.96875)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="161" y1="21.6875" y2="21.6875"/><circle stroke-width="1.5" r="6" stroke="#9467bd" fill="var(--markmap-circle-open-bg)" cx="159" cy="21.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="143" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">2.11 杂项 / 其他物品</div></div></foreignObject></g><g data-depth="2" data-path="1.24" class="markmap-node" transform="translate(80, 7257.28125)"><line stroke="#d62728" stroke-width="1.75" x1="-1" x2="120" y1="21.875" y2="21.875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="118" cy="21.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="102" height="21"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">二、物品 ID 表</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0,0)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="2" y1="1.25" y2="1.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="0" cy="1.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"></div></div></foreignObject></g></g></svg>
